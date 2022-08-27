@@ -1,0 +1,29 @@
+<app-menu></app-menu>
+<body>
+<div class="app-products-div">
+  <mat-card-title class="mat-dialog-title">Computadores Portátiles</mat-card-title>
+  <hr>
+  <mat-grid-list cols="3" rowHeight="2:2">
+    <mat-grid-tile *ngFor="let product of products | paginate: { itemsPerPage: 6, currentPage: page}">
+      <mat-card class="e-product-card">
+        <mat-card-content>
+          <mat-card-title>{{product.name}}</mat-card-title>
+          <mat-card-subtitle>{{product.description}}</mat-card-subtitle>
+          <img src="{{product.imageUrl}}" class="e-product-img"/>
+        </mat-card-content>
+        <mat-card-actions class="mat-action-list">
+          <mat-card-title>${{product.price | currency:'COP ':'symbol':'3.0'}}  / {{product.quantity}} unidades
+          </mat-card-title>
+          <button mat-raised-button color="accent" [routerLink]="['/product', product.id]" >Ver detalles</button>
+          <button mat-raised-button color="primary" (click)="addCart(product)">Añadir a carrito</button>
+        </mat-card-actions>
+      </mat-card>
+    </mat-grid-tile>
+  </mat-grid-list>
+  <div class="ngx-pagination">
+    <pagination-controls (pageChange)="page = $event" previousLabel="Anterior" nextLabel="Siguiente">
+    </pagination-controls>
+  </div>
+</div>
+
+</body>

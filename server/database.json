@@ -1,0 +1,244 @@
+{
+  "products": [
+    {
+      "id": 0,
+      "name": "ASUS 14' Pulgadas E410MA",
+      "description": "Intel Celeron - RAM 4GB - Disco SSD 256 GB - Azul",
+      "price": 899000,
+      "imageUrl": "https://www.alkomprar.com/medias/4711081640219-001-310Wx310H?context=bWFzdGVyfGltYWdlc3w1MTE1OXxpbWFnZS9qcGVnfGltYWdlcy9oMGIvaDdjLzEyNDA1OTA5MTU5OTY2LmpwZ3wzNTU5ODdlYjI2YTE2NjcwNWRjYTgzM2M3ZGM0YTY0ZTFjMWNjM2U3YTA3MGYxM2I1YTQ0MWJlOWRjMDlmMmEw",
+      "quantity": 9
+    },
+    {
+      "id": 1,
+      "name": "HP 14' Pulgadas fq1011la",
+      "description": "AMD Ryzen 5 - RAM 8GB- Disco SSD 256 GB - Plateado",
+      "price": 1699000,
+      "imageUrl": "https://www.alkomprar.com/medias/196548546107-001-310Wx310H?context=bWFzdGVyfGltYWdlc3w1MTc4NnxpbWFnZS9qcGVnfGhhMS9oNWYvMTMzNDQwODE5NjkxODIvMTk2NTQ4NTQ2MTA3XzAwMV8zMTBXeDMxMEh8ODFjN2RlOTg3OWFhZmViN2QxZWFmMzUyMTUxZGQwYzk4ZTBmMTFkOWM0NDY4NWJiYzIxNDU2M2E4NTU1MzQ1YQ",
+      "quantity": 9
+    },
+    {
+      "id": 2,
+      "name": "LENOVO 14' Pulgadas IdeaPad 5",
+      "description": "Intel Core i5 - RAM 8GB - Disco SSD 512GB - Gris",
+      "price": 2399000,
+      "imageUrl": "https://www.alkomprar.com/medias/195477201705-001-310Wx310H?context=bWFzdGVyfGltYWdlc3wyOTkyOXxpbWFnZS9qcGVnfGltYWdlcy9oYmEvaGVjLzExNTc2ODU5MTY0NzAyLmpwZ3xkZjkxN2ZmNWNkZDIwMGQ0MmI3OTAzMGFmYTk4NWJkYWFhNzNiYzM4MTE0ZTQ5YzE3MDQzZGUzMTU4ZTc2ODg3",
+      "quantity": 9
+    },
+    {
+      "id": 3,
+      "name": "ASUS TUF Dash 15,6' Pulgadas FX517ZC",
+      "description": "Intel Core i5 - RAM 16GB - Disco SSD 512 GB - Negro",
+      "price": 4749000,
+      "imageUrl": "https://www.alkomprar.com/medias/4711081724360-001-310Wx310H?context=bWFzdGVyfGltYWdlc3wzMDczNXxpbWFnZS9qcGVnfGltYWdlcy9oYTYvaGMzLzEyNDA1OTEzODc4NTU4LmpwZ3xhMmU1YzYyYzc4YTQyNjUyZWZlYjljNDkxYWY5MmI4MDkyMjlkZmQ0MGRjNDY4ZWQxMDgyZWRlNjVhZDA4ZDE5",
+      "quantity": 9
+    },
+    {
+      "id": 4,
+      "name": "Asus 14' Pulgadas X415EAe",
+      "description": "Intel Core i3 - RAM 8GB - Disco SSD 256 GB - Plateado",
+      "price": 1499000,
+      "imageUrl": "https://www.alkomprar.com/medias/4711081640226-001-310Wx310H?context=bWFzdGVyfGltYWdlc3w0OTc1NHxpbWFnZS9qcGVnfGltYWdlcy9oNjgvaGU2LzEyNDYxNzEyNzAzNTE4LmpwZ3w4NzkxMTVmNmYwNDE4MTYyZmIwNDFkMmY4Njg0ZWE3ODdjZjkzMzA0M2Y3Yzg5ZGUxZWMxNDU5NjIyMGIyMDUy",
+      "quantity": 9
+    },
+    {
+      "id": 5,
+      "name": "LENOVO 14' Pulgadas IdeaPad 3",
+      "description": "Intel Core i5 - RAM 4GB - Disco SSD 256GB - Azul",
+      "price": 1499000,
+      "imageUrl": "https://www.alkomprar.com/medias/196118768748-001-310Wx310H?context=bWFzdGVyfGltYWdlc3wzMjA2OHxpbWFnZS9qcGVnfGltYWdlcy9oYWUvaDJhLzExNTc2ODk5NTM0ODc4LmpwZ3xiZTliMWEwYWVjYjExYTNhNjAwYTZmN2ZjY2QzMTA3NjNjY2U1ZTE0ZDY3N2UyZjIwNmIyZDU1Mzg4MjkxNTQ1",
+      "quantity": 9
+    },
+    {
+      "id": 6,
+      "name": "Victus HP 16.1' Pulgadas d0504la",
+      "description": "Intel Core i5 - RAM 8GB - Disco SSD 512 GB - Azul Intenso",
+      "price": 3299000,
+      "imageUrl": "https://www.alkomprar.com/medias/196337885110-001-310Wx310H?context=bWFzdGVyfGltYWdlc3wzMjE0N3xpbWFnZS9qcGVnfGltYWdlcy9oMTYvaDkyLzExNjg1MjI0MDg3NTgyLmpwZ3w4NWI1YWE3ZDQzZDc3ZWFkNTIxYjAzNzdjMmI4MDc3YjQ5MTZlYjc1YjM1Yjg3NjEyNjY0ZDhkZWYyZmQ4Yzc4",
+      "quantity": 9
+    },
+    {
+      "id": 7,
+      "name": "HP 15,6' Pulgadas dw1078",
+      "description": "Intel Core i3 - RAM 12GB - Disco SSD 256 GB - Negro",
+      "price": 1499000,
+      "imageUrl": "https://www.alkomprar.com/medias/195161214219-001-310Wx310H?context=bWFzdGVyfGltYWdlc3wyOTM4NXxpbWFnZS9qcGVnfGltYWdlcy9oZjIvaGI2LzEwMzM1ODcxNDAyMDE0LmpwZ3wyODk4Mjk4MWNhNTZiMWUzYjk2M2Q3NTcyNTI5Y2I4OTc0OTczODZhMThjYjMwNjM1MDM0YzRiYmZhMTNlY2Fm",
+      "quantity": 9
+    },
+    {
+      "id": 8,
+      "name": "Asus Vivobook 14' Pulgadas M1402IA",
+      "description": "AMD R5 - RAM 8GB - Disco SSD 512 GB - Plateado",
+      "price": 2599000,
+      "imageUrl": "https://www.alkomprar.com/medias/4711081765417-001-310Wx310H?context=bWFzdGVyfGltYWdlc3w1NjE1OXxpbWFnZS9qcGVnfGltYWdlcy9oMGEvaDg2LzEyNDYxNjkxNjk5MjMwLmpwZ3w2MzI1NmM2OGUzYWU5MTA1MDMwOTY2ZTA5YjFjOThiZmFkYjMxZDRmZjdhMWExZTNhM2YxODMyNzA4YzAyNThl",
+      "quantity": 9
+    },
+    {
+      "id": 9,
+      "name": "Asus 14' Pulgadas X415JA",
+      "description": "Intel Core i3 - RAM 8GB - Disco SSD 256 GB - Gris",
+      "price": 1399000,
+      "imageUrl": "https://www.alkomprar.com/medias/4711081774310-001-310Wx310H?context=bWFzdGVyfGltYWdlc3w1NjkyMHxpbWFnZS9qcGVnfGltYWdlcy9oNmUvaGE3LzEyNDYxNzI5ODA4NDE0LmpwZ3xlMDgyOWJjMGY0MjNkZWE3ZDM2ZjUyNGJiZWE0NTgwMzFmNWE2ZGZjZTRkZThjN2JlNjU3OWNkZjVhODFlZDIz",
+      "quantity": 9
+    },
+    {
+      "id": 10,
+      "name": "HP 15.6' Pulgadas ef2501la",
+      "description": "AMD Ryzen 5 - RAM 16GB - Disco SSD 512 GB - Plata Natural",
+      "price": 2599000,
+      "imageUrl": "https://www.alkomprar.com/medias/196337755727-001-310Wx310H?context=bWFzdGVyfGltYWdlc3wyODYzOHxpbWFnZS9qcGVnfGltYWdlcy9oMjMvaDg5LzExNjM3ODY4OTUzNjMwLmpwZ3w2MmJmMTZiZGZiODI0MGFjMWNiMTg4NTY0ZmRiMjQxNWQ2MTVkOTc0ZjBhYjlmNTQ3MWQwYzJkNjVjZGMyZDkw",
+      "quantity": 9
+    },
+    {
+      "id": 11,
+      "name": "ASUS TUF Gaming F15 15,6' Pulgadas FX506LH",
+      "description": "Intel Core I5 - RAM 8GB - Disco SSD 512 GB - Negro",
+      "price": 3299000,
+      "imageUrl": "https://www.alkomprar.com/medias/4711081724025-001-310Wx310H?context=bWFzdGVyfGltYWdlc3wzNTA0MXxpbWFnZS9qcGVnfGltYWdlcy9oODgvaGRmLzEyMzkwMDIyNjc2NTEwLmpwZ3xhZDk0ODM1MzkwNTBiNzljOWRjMzU4NDgwYjIxOWQ0ZTgxMTg4MjQzNDI3YTE0OGFkZWZkNjJmMDg0Yjk5OTZj",
+      "quantity": 9
+    },
+    {
+      "id": 12,
+      "name": "ASUS 15,6' Pulgadas M515DA",
+      "description": "AMD Ryzen 3 - RAM 8GB - Disco SSD 256 GB - Azul",
+      "price": 1449000,
+      "imageUrl": "https://www.alkomprar.com/medias/4711081640240-001-310Wx310H?context=bWFzdGVyfGltYWdlc3w0Njc1MXxpbWFnZS9qcGVnfGltYWdlcy9oMDYvaGIzLzExNzIzOTkxNTE1MTY2LmpwZ3w2ZDk5MjU1YzczNzA4MjU0NWIyZTc4ZDM5NDAyYTNkMzUxYTYyOGJlYzhhMTJhMGY3MzNjY2JhNzAzOWZlMjg4",
+      "quantity": 9
+    },
+    {
+      "id": 13,
+      "name": "HP 15.6' Pulgadas ef2508la",
+      "description": "AMD Ryzen 5 - RAM 4GB - Disco SSD 256 GB - Negro",
+      "price": 1499000,
+      "imageUrl": "https://www.alkomprar.com/medias/196337771536-001-310Wx310H?context=bWFzdGVyfGltYWdlc3wzODIwN3xpbWFnZS9qcGVnfGltYWdlcy9oOTIvaDBiLzEyMzQ3Njc3Mjc4MjM4LmpwZ3xkMTRhMzM2NWNmZDU2M2ZhMTA4NjZlZmIzMzEzNTFlOTNjMzBmYjkxY2U0OGQwZDdmMmRhYWJlZTdiMTRjMDFl",
+      "quantity": 9
+    },
+    {
+      "id": 14,
+      "name": "ACER 15.6' Pulgadas R8NL",
+      "description": "AMD Ryzen 5 - RAM 4GB - Disco SSD 256GB - Plateado",
+      "price": 1799000,
+      "imageUrl": "https://www.alkomprar.com/medias/4710886979388-001-310Wx310H?context=bWFzdGVyfGltYWdlc3w2NTAwNXxpbWFnZS9qcGVnfGltYWdlcy9oNmMvaGQ1LzEyNzA1NzQ5MTA2NzE4LmpwZ3wzMDkxNWE2Nzg0NGU3NTI1NTQzNzVhMWFiYmRlMWE0OTIzMDdkZTMxNmVhZTI2NmFkZGM3YmI2NmFlZmVhYjVm",
+      "quantity": 9
+    },
+    {
+      "id": 15,
+      "name": "ACER 15.6' Pulgadas 52B9",
+      "description": "Intel Core i5 - RAM 8GB - Disco HDD 1TB - Negro",
+      "price": 2799000,
+      "imageUrl": "https://www.alkomprar.com/medias/4710886637011-001-310Wx310H?context=bWFzdGVyfGltYWdlc3w4OTMwMHxpbWFnZS9qcGVnfGltYWdlcy9oMjIvaDJiLzEyNzA1NzI0NzI3MzI2LmpwZ3xhNzFlZTM0NDYwYmVmMzhlM2VkY2E5YTIwN2I2Y2VjMDgzZjY5MjI1OTg5MjZmNTc0NjFjOTk3YmRkMTQ2NGNh",
+      "quantity": 9
+    },
+    {
+      "id": 16,
+      "name": "LENOVO 15,6' Pulgadas IdeaPad 3",
+      "description": "Intel Core i3 - RAM 8GB - Disco SSD 256GB - Azul",
+      "price": 1399000,
+      "imageUrl": "https://www.alkomprar.com/medias/196378400600-001-310Wx310H?context=bWFzdGVyfGltYWdlc3w1Njg5MnxpbWFnZS9qcGVnfGhmZS9oZGUvMTMzNDQwMzM4NjU3NTgvMTk2Mzc4NDAwNjAwXzAwMV8zMTBXeDMxMEh8NjEzNTY4YTQwOWNjNTlhZGE3NTJiOTAyNDc0M2QzMGIzMDhjZDE5YTIyNjZiODk4YWU1YTYyNzI2OGM3NTUxNw",
+      "quantity": 9
+    },
+    {
+      "id": 17,
+      "name": "LENOVO 15,6' Pulgadas IdeaPad Gaming 3",
+      "description": "AMD Ryzen 5 - RAM 8GB - Disco SSHD 1TB 256GB - Negro",
+      "price": 3299000,
+      "imageUrl": "https://www.alkomprar.com/medias/196379251331-001-310Wx310H?context=bWFzdGVyfGltYWdlc3wyODU0NnxpbWFnZS9qcGVnfGltYWdlcy9oMTAvaDMzLzExNjE1MTI2OTQ1ODIyLmpwZ3xjYTU1NDg3NjI0ZjUyNDljYzU5ODIyYjc5YmZlNDFkNDY5YjgzZGYzMTgxOWRjMjVkNDQwNDk2MzUzMDY0NzZl",
+      "quantity": 9
+    },
+    {
+      "id": 18,
+      "name": "MacBook Air de 13' Pulgadas MGN63LA/A",
+      "description": "Chip M1 RAM 8GB Disco Estado Solido 256 GB - Gris espacial",
+      "price": 5239000,
+      "imageUrl": "https://www.alkomprar.com/medias/194252425824-001-310Wx310H?context=bWFzdGVyfGltYWdlc3wyODEyM3xpbWFnZS9qcGVnfGltYWdlcy9oZGQvaDI4LzEwNDQxMDcwMTgyNDMwLmpwZ3xmNGMwNTQyZGM2Y2EyYTkyMTI0YWMxYzg5NzFhZDBkY2Q0YzkzMTZhYmQzYTdhYjMwYTUyM2VlZjMzMmQ0YmI1",
+      "quantity": 9
+    },
+    {
+      "id": 19,
+      "name": "Victus HP 16.1' Pulgadas d0505la",
+      "description": "Intel Core i5 - RAM 16GB- Disco SSD 512 GB - Azul",
+      "price": 3999000,
+      "imageUrl": "https://www.alkomprar.com/medias/196337885127-001-310Wx310H?context=bWFzdGVyfGltYWdlc3w0MzUyOXxpbWFnZS9qcGVnfGltYWdlcy9oNWYvaGUzLzExNzUyMDIxNjg4MzUwLmpwZ3w3ZGRlMmE3YjYwMWY0YjdiNGM3YmY4YzljNDcxNDRiN2Y3NDRkNzQ2YzMyOTQ2ZTk4ZGViYzMzN2Q0ZWE5MWRk",
+      "quantity": 9
+    },
+    {
+      "id": 20,
+      "name": "ASUS VivoBook Pro OLED 14' Pulgadas K3400PA",
+      "description": "Intel Core I5 - RAM 16GB - Disco SSD 512GB - Azul",
+      "price": 3699000,
+      "imageUrl": "https://www.alkomprar.com/medias/4711081564324-001-310Wx310H?context=bWFzdGVyfGltYWdlc3w0ODU0NXxpbWFnZS9qcGVnfGltYWdlcy9oODgvaDA2LzExNTM3MTg4NDg3MTk4LmpwZ3wyZjFjNDE0OTIzYzM4MjlhZGQ1MzQ1NGY2MmMwYzJjOTYzZmJlNDQwYWY1ZTIxMjU0ZWEzMDA3OWFiZDRmYWEz",
+      "quantity": "9"
+    },
+    {
+      "id": 21,
+      "name": "HP 14' Pulgadas cf2521la",
+      "description": "Intel Core i5 - RAM 4GB - Disco SSD 256 GB - Gris Pizarra",
+      "price": 1499000,
+      "imageUrl": "https://www.alkomprar.com/medias/196068240738-001-310Wx310H?context=bWFzdGVyfGltYWdlc3w0NTI5MXxpbWFnZS9qcGVnfGltYWdlcy9oMjcvaDFlLzExNDkwMDg4NTUwNDMwLmpwZ3xlMGM1ZWE3ZTFiYjg5NGFiOTM4ZGM1MGJmZTk2YmEwMTc5MThlYWRlNGI3NmE0NDBmMjc1NTMwOGU3ZmRjOWZi",
+      "quantity": 9
+    },
+    {
+      "id": 22,
+      "name": "HP 15.6' Pulgadas ef2500la",
+      "description": "AMD Ryzen 7 - RAM 16GB - Disco SSD 512 GB - Dorado",
+      "price": 2999000,
+      "imageUrl": "https://www.alkomprar.com/medias/196337755710-001-310Wx310H?context=bWFzdGVyfGltYWdlc3w0MTE0NXxpbWFnZS9qcGVnfGltYWdlcy9oNTAvaDEyLzExNzUyMDA0MzIxMzEwLmpwZ3wyNzg1NmU3NjhkYWQzYzQ4MmIyYzc2NjlhMzFiMDViZjc1NzczNzZkZGE0ZTQ2NTY2ZDQ1ZjMwM2YzNmQ3ZDAz",
+      "quantity": 9
+    },
+    {
+      "id": 23,
+      "name": "PREDATOR 14' Pulgadas 76QN",
+      "description": "Intel Core i7 - RAM 16GB - Disco 512GB SSD - Plateado",
+      "price": 4799000,
+      "imageUrl": "https://www.alkomprar.com/medias/4710886585428-001-310Wx310H?context=bWFzdGVyfGltYWdlc3w2OTMxM3xpbWFnZS9qcGVnfGltYWdlcy9oYzIvaDkzLzEyNjgxNjk3MDk5ODA2LmpwZ3w5NTUwYWI3ZDhmMzE2ZjM1MTVlMTg5N2FiNTdhY2E3ODQwYjQyNDc0ZWNmM2M1ZjJhN2Y1Y2NjYTdjYWU4Y2Rj",
+      "quantity": 9
+    },
+    {
+      "id": 24,
+      "name": "HP Pavilion 14' Pulgadas dv2000la",
+      "description": "Intel Core i5 - RAM 8GB- Disco SSD 512 GB - Dorado",
+      "price": 2999000,
+      "imageUrl": "https://www.alkomprar.com/medias/196548561858-001-310Wx310H?context=bWFzdGVyfGltYWdlc3w0NzExOHxpbWFnZS9qcGVnfGltYWdlcy9oZGUvaDNhLzEyNzI5MzkxNDgwODYyLmpwZ3xjZjgwZTRhNmIzMGI0MGU3NThjMzRiN2M5N2NmNmYxYTkzZmZiNjg4N2ZkNTdiYWM2NjJmYTU1Zjc1OTNlNjI4",
+      "quantity": 9
+    },
+    {
+      "id": 25,
+      "name": "LENOVO 14' Pulgadas IdeaPad 5",
+      "description": "AMD Ryzen 7 - RAM 16GB - Disco SSD 512GB - Gris",
+      "price": 2899000,
+      "imageUrl": "https://www.alkomprar.com/medias/196379131329-001-310Wx310H?context=bWFzdGVyfGltYWdlc3w1NjA4NXxpbWFnZS9qcGVnfGltYWdlcy9oODYvaDYxLzEyNjMwOTkzNjAwNTQyLmpwZ3xiZWUzODY1ZDc1MWFlYzZiYTMzNTA2Mjc4YzhmYzg5MDJlMTEyOGZhMjNmMWU0MTUzYzdlMGI3YWNiMGQ0MjUw",
+      "quantity": 9
+    },
+    {
+      "id": 26,
+      "name": "ASUS 14' Pulgadas X415JA",
+      "description": "Intel Core i3 - RAM 8GB - Disco SSD 512 GB - Azul",
+      "price": 1499000,
+      "imageUrl": "https://www.alkomprar.com/medias/4711081641148-001-310Wx310H?context=bWFzdGVyfGltYWdlc3wyMzQwOHxpbWFnZS9qcGVnfGltYWdlcy9oMDEvaGQ3LzExNjE0OTY2NTQ2NDYyLmpwZ3wwZDg0NGUyYWNjNTg0M2MzMjQ0OGExMTlmODA1Mzk2MWVjY2ZlNjg1ZWQ3NDRkMzdjOTUyY2Q4YmRkMzMwNGNi",
+      "quantity": 9
+    },
+    {
+      "id": 27,
+      "name": "MacBook Air de 13' Pulgadas MGN93LA/A",
+      "description": "Chip M1 RAM 8GB Disco Estado Solido 256 GB SSD - Plata",
+      "price": 5239000,
+      "imageUrl": "https://www.alkomprar.com/medias/194252425862-001-310Wx310H?context=bWFzdGVyfGltYWdlc3wyNzg3N3xpbWFnZS9qcGVnfGltYWdlcy9oNzIvaDA0LzEwNDQxMDc0OTAxMDIyLmpwZ3xjMmU3YzBlNTVlZjhhNmNmZTM4NTI5YWUwMzBlOTBhNjViNjUwNGFiMWVhNzNlNjYyZGRiZGI3NTFmMGIyOGFl",
+      "quantity": 9
+    },
+    {
+      "id": 28,
+      "name": "HP 14' Pulgadas cf2514la",
+      "description": "Intel Core i3 - RAM 4GB - Disco SSD 256 GB - Gris Pizarra",
+      "price": 1199000,
+      "imageUrl": "https://www.alkomprar.com/medias/196068240653-001-310Wx310H?context=bWFzdGVyfGltYWdlc3w0NjQxOXxpbWFnZS9qcGVnfGltYWdlcy9oMTgvaGEzLzExNDkwMDgzMjQyMDE0LmpwZ3xiMzEyNTcyYTc3MGE5YmVjYjdkNTlkNDJjMWQ2Mzc0MmMzOTBkMDYxNzAzMDdkZTRmMDM5ZjFlZTUxYWFhNDlm",
+      "quantity": 9
+    },
+    {
+      "id": 29,
+      "name": "LENOVO 14' Pulgadas IdeaPad 5",
+      "description": "Intel Core i5 - RAM 8GB - Disco SSD 512GB - Azul",
+      "price": 2399000,
+      "imageUrl": "https://www.alkomprar.com/medias/196380731730-001-310Wx310H?context=bWFzdGVyfGltYWdlc3w1NTc1NXxpbWFnZS9qcGVnfGltYWdlcy9oZjAvaDhlLzEyNjMxMDExMjk1MjYyLmpwZ3w0OGRkZjAxYTExYzBjNDQyMzZlNTVlN2ZmNzU1OTY5Y2I4ZWE0MTVhNTc1YzZhNTFkZjVjNTk2MjA3ZWJmZDcx",
+      "quantity": 9
+    }
+  ]
+}

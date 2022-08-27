@@ -1,0 +1,9 @@
+div.app-cart-div {
+  padding: 13px;
+  text-align: center;
+}
+
+body {
+  background-image: url("https://i.picsum.photos/id/48/5184/3456.jpg?hmac=CqGbzLpjn6uemZM1G8hAgGDefnyntx41HEPKtlK4CDA");
+  background-size: cover;
+}

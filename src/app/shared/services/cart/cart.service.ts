@@ -12,7 +12,8 @@ export class CartService {
 
   private product$ = new BehaviorSubject<any>(product);
 
-  constructor() {}
+  constructor() {
+  }
 
   get selectedProduct$(): Observable<any> {
     return this.product$.asObservable();

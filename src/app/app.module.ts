@@ -22,6 +22,7 @@ import {MatCarouselModule} from "ng-mat-carousel";
 import {CdkAccordionModule} from "@angular/cdk/accordion";
 import {MatExpansionModule} from "@angular/material/expansion";
 import {MatTableModule} from "@angular/material/table";
+import {MatBadgeModule} from "@angular/material/badge";
 
 @NgModule({
   declarations: [
@@ -32,28 +33,29 @@ import {MatTableModule} from "@angular/material/table";
     CartComponent,
     DetailProductComponent,
   ],
-  imports: [
-    BrowserModule,
-    AppRoutingModule,
-    BrowserAnimationsModule,
-    MatToolbarModule,
-    MatIconModule,
-    MatButtonModule,
-    MatCardModule,
-    HttpClientModule,
-    NgxPaginationModule,
-    ToastrModule.forRoot({
-      timeOut: 1500,
-      positionClass: 'toast-bottom-right',
-      preventDuplicates: false,
-    }),
-    MatGridListModule,
-    MatDialogModule,
-    MatCarouselModule.forRoot(),
-    CdkAccordionModule,
-    MatExpansionModule,
-    MatTableModule,
-  ],
+    imports: [
+        BrowserModule,
+        AppRoutingModule,
+        BrowserAnimationsModule,
+        MatToolbarModule,
+        MatIconModule,
+        MatButtonModule,
+        MatCardModule,
+        HttpClientModule,
+        NgxPaginationModule,
+        ToastrModule.forRoot({
+            timeOut: 1500,
+            positionClass: 'toast-bottom-right',
+            preventDuplicates: false,
+        }),
+        MatGridListModule,
+        MatDialogModule,
+        MatCarouselModule.forRoot(),
+        CdkAccordionModule,
+        MatExpansionModule,
+        MatTableModule,
+        MatBadgeModule,
+    ],
   providers: [],
   bootstrap: [AppComponent]
 })

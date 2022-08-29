@@ -1,6 +1,8 @@
-import {AfterViewInit, Component, OnInit} from '@angular/core';
+import {Component, OnInit, ViewChild,} from '@angular/core';
 import {CartService} from "../../shared/services/cart/cart.service";
 import {ToastrService} from "ngx-toastr";
+import {Products} from "../../shared/interfaces/products";
+import {MatTable} from "@angular/material/table";
 
 @Component({
   selector: 'app-cart',
@@ -15,10 +17,13 @@ export class CartComponent implements OnInit {
   displayedColumns: string[] = [
     'imageUrl', 'name', 'price', 'quantity', 'delete'
   ];
+  @ViewChild(MatTable) table: MatTable<Products> | undefined;
 
   constructor(
     private cartService: CartService,
-    private toastr: ToastrService) {}
+    private toastr: ToastrService) {
+
+  }
 
   ngOnInit(): void {
     this.cart$.subscribe((product) => {
@@ -33,11 +38,14 @@ export class CartComponent implements OnInit {
     })
   }
 
+
   removeProduct(productRemoved: any) {
     this.total -= productRemoved.counter * productRemoved.price;
     this.cart.map((products: any, index: number) => {
       if (products.id === productRemoved.id) {
-        this.cart.splice(index, 1);
+        this.cart.splice(index, 1)
+        // @ts-ignore
+        this.table.renderRows()
         this.toastr.error('Producto eliminado');
       }
     })

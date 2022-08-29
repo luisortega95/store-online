@@ -4,9 +4,11 @@
   border: black solid 1px;
 
 }
+
 .mat-dialog-title {
   color: white;
 }
+
 img.e-product-img {
   height: 400px;
   width: 400px;
@@ -34,6 +36,5 @@ body {
   height: auto;
   background-image: url("https://i.picsum.photos/id/307/5760/3840.jpg?hmac=XtsDQJ477ylS15H1VvpO9qCUlvrvBcDVQBu9ZUlB-SI");
   background-size: cover;
-  /*background-attachment: fixed;*/
 }
 

@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import {Component, Input, OnInit, Output} from '@angular/core';
 import {Products} from "../../shared/interfaces/products";
 import {ProductsService} from "../../shared/services/products/products.service";
 import {ToastrService} from "ngx-toastr";
@@ -16,32 +16,32 @@ export class ProductsComponent implements OnInit {
   products: Products[] = [];
   page: number = 0;
   cart: any;
-
   constructor(
     private productService: ProductsService,
     private cartService: CartService,
     private toastr: ToastrService,
     public dialog: MatDialog
-  ) {}
+  ) {
+  }
 
   ngOnInit(): void {
     this.getAllProducts();
     this.cartService.selectedProduct$.subscribe(
-      (product:any) => this.cart = product
+      (product: any) => this.cart = product
     )
   }
 
-   getAllProducts():void {
+  getAllProducts(): void {
     this.productService.getAllProducts().subscribe((data) => {
       this.products = data
     })
   }
 
-   productSelected(product:any): void {
+  productSelected(product: any): void {
     this.cartService.setProduct(product);
   }
 
-   addCart(product: Products): void {
+  addCart(product: Products): void {
     this.productSelected(this.cart);
     let productCart = {
       id: product.id,
@@ -51,30 +51,23 @@ export class ProductsComponent implements OnInit {
       counter: 0
     }
 
-    if (this.cart.length  === 0) {
+    const filter = this.cart.filter((products: any) =>
+      products.id === productCart.id
+    )
+
+    if (filter.length === 0) {
       productCart.counter++;
       this.cart.push(productCart);
       this.toastr.success('Producto agregado');
       return;
     }
 
-    const filter = this.cart.filter((products: any) =>
-      products.id === productCart.id
-    )
-
-     if (filter.length === 0) {
-       productCart.counter++;
-       this.cart.push(productCart);
-       this.toastr.success('Producto agregado');
-       return;
-     }
-
-     this.cart.map((products: any, index: number) => {
-       if (productCart.id === products.id) {
-         this.cart[index].counter++;
-         this.toastr.success('Producto agregado');
-       }
-     })
+    this.cart.map((products: any, index: number) => {
+      if (productCart.id === products.id) {
+        this.cart[index].counter++;
+        this.toastr.success('Producto agregado');
+      }
+    })
   }
 
   detail(product: Products) {

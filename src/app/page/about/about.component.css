@@ -2,13 +2,13 @@ div.app-about-div {
   padding: 13px;
   text-align: center;
 }
+
 body {
   background-image: url("https://i.picsum.photos/id/2/5616/3744.jpg?hmac=l1XcSPFigtRLcO2F6Li-t17EIeylkWH94Oowb4vzApk");
-  /*background-size: inherit;*/
   background-position: center;
-  /*background-repeat: no-repeat;*/
 
 }
+
 .example-card {
   border: black solid 1px;
   margin-bottom: 50px;

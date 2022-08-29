@@ -17,6 +17,7 @@ export class DetailProductComponent implements OnInit {
     this.detailProduct = data;
   }
 
-  ngOnInit(): void {}
+  ngOnInit(): void {
+  }
 
 }

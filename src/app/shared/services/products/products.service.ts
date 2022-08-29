@@ -17,7 +17,4 @@ export class ProductsService {
     return this.httpClient.get<Products[]>(this.REST_API_SERVER);
   }
 
-  public getProduct(id: string): Observable<Products[]> {
-    return this.httpClient.get<Products[]>(this.REST_API_SERVER + id);
-  }
 }

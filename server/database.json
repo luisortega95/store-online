@@ -45,6 +45,39 @@
       "id": 1,
       "name": "HP 14' Pulgadas fq1011la",
       "description": "AMD Ryzen 5 - RAM 8GB- Disco SSD 256 GB - Plateado",
+      "details": [
+        {
+          "hdmi": "1",
+          "usb": "2",
+          "usb_c": "1",
+          "weight": "1.46kg",
+          "screen": "14 Pulgadas HD",
+          "battery": "10 Horas",
+          "connectivity": "Bluetooth, WiFi",
+          "ram": "8 GB",
+          "disk": "Disco Estado Solido (SSD) 256  GB",
+          "processor": "AMD Ryzen™ 5 5500U 4.0 GHz max boost clock, 8 MB L3 cache, 6 nucleos, 12 hilos",
+          "graphic": "No Tiene Tarjeta Video/Grafica Independiente",
+          "so": "Windows 11",
+          "images": [
+            {
+              "image": "https://www.alkomprar.com/medias/196548546107-003-1400Wx1400H?context=bWFzdGVyfGltYWdlc3wzMzQyMTd8aW1hZ2UvanBlZ3xoMGEvaGVjLzEzMzQ0MDgzMDE3NzU4LzE5NjU0ODU0NjEwN18wMDNfMTQwMFd4MTQwMEh8MzhkYTdmMWI4ZTYzMWJkMjk5MjljYzA1ZDc1NDQyYWQ3YWMzYzUxZGI5MTRkM2ExYjgwZDMwM2ViMTQ1ZDJmMA"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/196548546107-004-1400Wx1400H?context=bWFzdGVyfGltYWdlc3w0MDkyMHxpbWFnZS9qcGVnfGhhZC9oZDcvMTMzNDQwODM2MDc1ODIvMTk2NTQ4NTQ2MTA3XzAwNF8xNDAwV3gxNDAwSHxlZTJmZmM1ZmM0NjM2MGVjODgwOWYwNTZkYmNmZmFjZmMwNDI5MGU5ZmMxNDI4NTQ3YzNiOWZkMjdiMTlhMDg1"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/196548546107-005-1400Wx1400H?context=bWFzdGVyfGltYWdlc3w5MjIxN3xpbWFnZS9qcGVnfGhmMy9oN2QvMTMzNDQwODQxOTc0MDYvMTk2NTQ4NTQ2MTA3XzAwNV8xNDAwV3gxNDAwSHwwZjdmOTg1MTNiMDBkNjM5YWIwNmZmNGE1ODJkYjM3ODVjMjY0ZmEyOWY5M2ZkNjc1YWE0MTM4YzE2YzVhNTcw"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/196548546107-006-1400Wx1400H?context=bWFzdGVyfGltYWdlc3wyNDQ5NTZ8aW1hZ2UvanBlZ3xoODQvaDY2LzEzMzQ0MDg0ODUyNzY2LzE5NjU0ODU0NjEwN18wMDZfMTQwMFd4MTQwMEh8NjdiYjM0ZjI1NTZhMzQ5OTIwZDZhMzI3ZDJjYjRmMzdkYzYwZjA4NzdmMGJlMjc0NjY1ZWMxMjQzYTc3ZDlkNg"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/196548546107-007-1400Wx1400H?context=bWFzdGVyfGltYWdlc3wzMzU1NDl8aW1hZ2UvanBlZ3xoN2IvaDBhLzEzMzQ0MDg1NDQyNTkwLzE5NjU0ODU0NjEwN18wMDdfMTQwMFd4MTQwMEh8YWU2ZjcyODEzOWZlNTMyNWE4NTJiY2M0N2Q0NGVkYWVmOTZlYjE5NDkwOWI5ZDE5MjJhMjEyOTBmZmJlNGRlMA"
+            }
+          ]
+        }
+      ],
       "price": 1699000,
       "imageUrl": "https://www.alkomprar.com/medias/196548546107-001-310Wx310H?context=bWFzdGVyfGltYWdlc3w1MTc4NnxpbWFnZS9qcGVnfGhhMS9oNWYvMTMzNDQwODE5NjkxODIvMTk2NTQ4NTQ2MTA3XzAwMV8zMTBXeDMxMEh8ODFjN2RlOTg3OWFhZmViN2QxZWFmMzUyMTUxZGQwYzk4ZTBmMTFkOWM0NDY4NWJiYzIxNDU2M2E4NTU1MzQ1YQ",
       "quantity": 9
@@ -53,6 +86,39 @@
       "id": 2,
       "name": "LENOVO 14' Pulgadas IdeaPad 5",
       "description": "Intel Core i5 - RAM 8GB - Disco SSD 512GB - Gris",
+      "details": [
+        {
+          "hdmi": "1",
+          "usb": "2",
+          "usb_c": "1",
+          "weight": "1.39kg",
+          "screen": "14 Pulgadas HD",
+          "battery": "9 Horas",
+          "connectivity": "Bluetooth, WiFi",
+          "ram": "8 GB",
+          "disk": "Disco Estado Solido (SSD) 512  GB",
+          "processor": "Intel Core I5 1135G7 8T, 2,4/4,2 GHz, 8 MB",
+          "graphic": "No Tiene Tarjeta Video/Grafica Independiente",
+          "so": "Windows 11 Home",
+          "images": [
+            {
+              "image": "https://www.alkomprar.com/medias/196380731730-003-1400Wx1400H?context=bWFzdGVyfGltYWdlc3wyMzM3NDl8aW1hZ2UvanBlZ3xpbWFnZXMvaGJkL2hiNS8xMjYzMTAwOTk4NDU0Mi5qcGd8YmZiZTcyNDZkZGQwMTM5N2MzYWE1Y2ZhYzZlZTJhMmJiODMzMzcxN2U4OWZhZDllMDZiZTdlZDIxN2NjMTYxMA"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/196380731730-004-1400Wx1400H?context=bWFzdGVyfGltYWdlc3wyNzM0MTl8aW1hZ2UvanBlZ3xpbWFnZXMvaGFhL2hmNC8xMjYzMTAxMjkzMzY2Mi5qcGd8ZThlMzcyNjFiYWMzNDBjMzY5YmJiYzVjYjM0M2UyMTQxNzQyZGY4YWI4YTVjYzFkNDQ1MmIxODc5NmRhMWJkYQ"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/196380731730-006-1400Wx1400H?context=bWFzdGVyfGltYWdlc3wyODI5ODl8aW1hZ2UvanBlZ3xpbWFnZXMvaDkwL2g3YS8xMjYzMTAxNDExMzMxMC5qcGd8MzA0NGJmZDdkOTYyOTg4Y2FmNjYyY2NlODFhMDk1ZmQyZDZjZThjZmNhYjQ3YTNhZWE1NGU1NThhOWJiMDJiYg"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/196380731730-008-1400Wx1400H?context=bWFzdGVyfGltYWdlc3w1MTA4Nzl8aW1hZ2UvanBlZ3xpbWFnZXMvaGM0L2g4YS8xMjYzMTAxNTI5Mjk1OC5qcGd8MmNhYjkwYTlhZDQzODQ4ODBlZjU5YTQyMTdjMWI3OTFhZDE2NDI2OWM4MTE4MTAzODkzYTdhOWE3YTU3NzdhZg"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/196380731730-009-1400Wx1400H?context=bWFzdGVyfGltYWdlc3w5OTA4NXxpbWFnZS9qcGVnfGltYWdlcy9oZjUvaDlkLzEyNjMxMDEzNTIzNDg2LmpwZ3xjOTNmODA4YzIyZTc5MDVhMWM2Y2FiZmIwZWU3OWE0NTE5YWRlMWRhNmMzZjU2MzM2YmViM2Y1Y2EyODM3YTNm"
+            }
+          ]
+        }
+      ],
       "price": 2399000,
       "imageUrl": "https://www.alkomprar.com/medias/195477201705-001-310Wx310H?context=bWFzdGVyfGltYWdlc3wyOTkyOXxpbWFnZS9qcGVnfGltYWdlcy9oYmEvaGVjLzExNTc2ODU5MTY0NzAyLmpwZ3xkZjkxN2ZmNWNkZDIwMGQ0MmI3OTAzMGFmYTk4NWJkYWFhNzNiYzM4MTE0ZTQ5YzE3MDQzZGUzMTU4ZTc2ODg3",
       "quantity": 9
@@ -61,14 +127,80 @@
       "id": 3,
       "name": "ASUS TUF Dash 15,6' Pulgadas FX517ZC",
       "description": "Intel Core i5 - RAM 16GB - Disco SSD 512 GB - Negro",
+      "details": [
+        {
+          "hdmi": "1",
+          "usb": "2",
+          "usb_c": "2",
+          "weight": "2kg",
+          "screen": "15.6 Pulgadas Full HD",
+          "battery": "8 Horas",
+          "connectivity": "Bluetooth, USB, WiFi",
+          "ram": "16 GB",
+          "disk": "Disco Estado Solido (SSD) 512  GB",
+          "processor": "Intel Core i5 12450H Processor 2 GHz (12M Cache, up to 4.4 GHz, 8 cores: 4 P-cores and 4 E-cores)",
+          "graphic": "NVIDIA GeForce RTX 3050",
+          "so": "Windows 11 Home",
+          "images": [
+            {
+              "image": "https://www.alkomprar.com/medias/4711081724360-003-1400Wx1400H?context=bWFzdGVyfGltYWdlc3wyNzUwMjh8aW1hZ2UvanBlZ3xpbWFnZXMvaGUxL2g3Mi8xMjQwNTkxNDkyNzEzNC5qcGd8OGJmMzNhNWZiNmIxNDZmNzg0ZTUyM2UzOTI4YmRiYjUyODk5MWMyMTdjOGZhYjFlNDgzZjQ3M2YzNWU1NTUwNw"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/4711081724360-004-1400Wx1400H?context=bWFzdGVyfGltYWdlc3wyODU0ODh8aW1hZ2UvanBlZ3xpbWFnZXMvaGY4L2g3MS8xMjQwNTkxNTUxNjk1OC5qcGd8NjA2NDg1NjE0NDQwMTNiYjA2OWEzNTk1OWFjNmJkNWNiNDE4NWM4MTg5M2YzMDk3ZjBlYmE0Y2Y1MTQ5YWQ5YQ"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/4711081724360-005-1400Wx1400H?context=bWFzdGVyfGltYWdlc3w2NjQwNnxpbWFnZS9qcGVnfGltYWdlcy9oOTQvaGUxLzEyNDA1OTEyNTY3ODM4LmpwZ3wxNDEyOWFlODU2NTUzMTc0ZTUxMmVmYjkwMGI0MGUyODcwYjFmZmQyZmU3NDkwNzBhZTYzOGYxOGFkNGFhNzhl"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/4711081724360-006-1400Wx1400H?context=bWFzdGVyfGltYWdlc3w2MDgzN3xpbWFnZS9qcGVnfGltYWdlcy9oZTgvaDA2LzEyNDA1OTE2MTA2NzgyLmpwZ3w1NDI3Yjc3M2EwMjU5NDYxMTE0ZGFiZjJlYjRjN2Y4OWMyOTBlYWQ2Y2Y3NjY3OWJlNjBjYTE3NDUxZDY3NzBk"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/4711081724360-002-1400Wx1400H?context=bWFzdGVyfGltYWdlc3wzNjc2NTl8aW1hZ2UvanBlZ3xpbWFnZXMvaDhhL2gwZS8xMjQwNTkxNDMzNzMxMC5qcGd8MzhhMWEyOWQ5MmVhMTlhMzMyMTQ4YmM4ZDM3OWMwZWYzMmJkMzcxMTIxZDY4MzQxZjUxNWQyOTdlYWQyOWM5Yw"
+            }
+          ]
+        }
+      ],
       "price": 4749000,
       "imageUrl": "https://www.alkomprar.com/medias/4711081724360-001-310Wx310H?context=bWFzdGVyfGltYWdlc3wzMDczNXxpbWFnZS9qcGVnfGltYWdlcy9oYTYvaGMzLzEyNDA1OTEzODc4NTU4LmpwZ3xhMmU1YzYyYzc4YTQyNjUyZWZlYjljNDkxYWY5MmI4MDkyMjlkZmQ0MGRjNDY4ZWQxMDgyZWRlNjVhZDA4ZDE5",
       "quantity": 9
     },
     {
       "id": 4,
-      "name": "Asus 14' Pulgadas X415EAe",
+      "name": "Asus 14' Pulgadas X415EA",
       "description": "Intel Core i3 - RAM 8GB - Disco SSD 256 GB - Plateado",
+      "details": [
+        {
+          "hdmi": "1",
+          "usb": "3",
+          "usb_c": "1",
+          "weight": "1.55kg",
+          "screen": "14 Pulgadas Full HD",
+          "battery": "8 Horas",
+          "connectivity": "Bluetooth, USB, WiFi",
+          "ram": "8 GB",
+          "disk": "Disco Estado Solido (SSD) 256  GB",
+          "processor": "Intel Core i3 1115G4 Processor 3.0 GHz (6M Cache, up to 4.1 GHz, 2 cores)",
+          "graphic": "No Tiene Tarjeta Video/Grafica Independiente",
+          "so": "Windows 11 Home",
+          "images": [
+            {
+              "image": "https://www.alkomprar.com/medias/4711081640226-003-1400Wx1400H?context=bWFzdGVyfGltYWdlc3wyODE2NTN8aW1hZ2UvanBlZ3xpbWFnZXMvaDA1L2hlYi8xMjQ2MTcxMzc1MjA5NC5qcGd8ODQ5NWU5MTMzZWI2Mjk5NjQxYzVlNDAwNGI2NDc4ZjRmN2IxZmFkMGMyYjVlMTczZDZiYjRiY2QwNDhhMGZiZQ"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/4711081640226-004-1400Wx1400H?context=bWFzdGVyfGltYWdlc3wxODY0MjB8aW1hZ2UvanBlZ3xpbWFnZXMvaDlkL2hlMC8xMjQ2MTcxMTI5NDQ5NC5qcGd8ZTgzMzY2YmE5NDFlMmJiYzI5NDQzNmI0ZjkwZDBiNjFhNTUwOTQ3YTVlNThkZDZkZGNmM2RiYzI3MWI5ZThjMg"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/4711081640226-005-1400Wx1400H?context=bWFzdGVyfGltYWdlc3w2MzkxNnxpbWFnZS9qcGVnfGltYWdlcy9oODAvaDQxLzEyNDYxNzE0MzQxOTE4LmpwZ3xkMGJmZjI1ZTM1OWY4YzcyNmMxYTFkMTYyNTdhNzdkM2NlOWI2MDZmMTEwNGU0ZDEwZjg0ZjA2YTdlOWVmYTMw"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/4711081640226-006-1400Wx1400H?context=bWFzdGVyfGltYWdlc3w1MjA4NXxpbWFnZS9qcGVnfGltYWdlcy9oOWMvaDNkLzEyNDYxNzE0OTMxNzQyLmpwZ3wwNzUxZWNmZDAwOGRlMjZmNTViNWIxZjVlMWQxMmEwZGY0MGYwZjNiMWI3MDQ5MGFkOGRjZDllZDM4MWRhMjRi"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/4711081640226-002-1400Wx1400H?context=bWFzdGVyfGltYWdlc3wzNzU4OTB8aW1hZ2UvanBlZ3xpbWFnZXMvaDk5L2g2OS8xMjQ2MTcxMzE2MjI3MC5qcGd8OWMzZDYxYjEzNzI4YTAxYmQxM2JjYzIzNWY4MWVkNjRjZWZkMzk4NGE0ZmVmN2FhYmNjZjhlM2Y3NDVjOWJhNA"
+            }
+          ]
+        }
+      ],
       "price": 1499000,
       "imageUrl": "https://www.alkomprar.com/medias/4711081640226-001-310Wx310H?context=bWFzdGVyfGltYWdlc3w0OTc1NHxpbWFnZS9qcGVnfGltYWdlcy9oNjgvaGU2LzEyNDYxNzEyNzAzNTE4LmpwZ3w4NzkxMTVmNmYwNDE4MTYyZmIwNDFkMmY4Njg0ZWE3ODdjZjkzMzA0M2Y3Yzg5ZGUxZWMxNDU5NjIyMGIyMDUy",
       "quantity": 9
@@ -77,6 +209,39 @@
       "id": 5,
       "name": "LENOVO 14' Pulgadas IdeaPad 3",
       "description": "Intel Core i5 - RAM 4GB - Disco SSD 256GB - Azul",
+      "details": [
+        {
+          "hdmi": "1",
+          "usb": "3",
+          "usb_c": "1",
+          "weight": "1.55kg",
+          "screen": "14 Pulgadas Full HD",
+          "battery": "11 Horas",
+          "connectivity": "Bluetooth, WiFi",
+          "ram": "4 GB",
+          "disk": "Disco Estado Solido (SSD) 256  GB",
+          "processor": "Intel Core i5 10210U 8T, 1,6/4,2 GHz, 6 MB",
+          "graphic": "No Tiene Tarjeta Video/Grafica Independiente",
+          "so": "Windows 11 Home",
+          "images": [
+            {
+              "image": "https://www.alkomprar.com/medias/196118768748-003-1400Wx1400H?context=bWFzdGVyfGltYWdlc3wyMDQ1MTR8aW1hZ2UvanBlZ3xpbWFnZXMvaDhiL2g5Yy8xMTU3NjkwMDA1OTE2Ni5qcGd8MDNhMjI2Njg4MmM4NGFhZjc1YTFmZGUyNDRkY2ViMzlmMmQ3ZDliN2JkYzllNTVjYzAyODhhOTA0NDcyZmE4Mw"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/196118768748-005-1400Wx1400H?context=bWFzdGVyfGltYWdlc3wxNzQ2NDN8aW1hZ2UvanBlZ3xpbWFnZXMvaDg4L2hjOC8xMTU3NjkwMTgyODYzOC5qcGd8MGNmYTBlNDhhMDNhZTQ1MDUyZTQzYjFhMTQwZWQxMTgzYTFlMGRjNzcxZWY3YmNmZWY4MGY4NmVlZjI3OTc1Zg"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/196118768748-007-1400Wx1400H?context=bWFzdGVyfGltYWdlc3w5ODM3OHxpbWFnZS9qcGVnfGltYWdlcy9oZTcvaDBmLzExNTc2OTAzMDA4Mjg2LmpwZ3w2MTNmOTdiMmNjNDdmNjVjYTdhODhhOWEwZTBhYTIxYzY3Y2VlYTQzNWRlYWVlY2YxZDZlZmRlMWU4NjM5M2Ez"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/196118768748-006-1400Wx1400H?context=bWFzdGVyfGltYWdlc3wxOTU2NzZ8aW1hZ2UvanBlZ3xpbWFnZXMvaDc4L2g1ZC8xMTU3NjkwMjQxODQ2Mi5qcGd8MGJlNjI4NDA4YTk5MTZlM2JjZjQ2M2RhNGZhNTlmOTBmMjNiYmQxYjZmZjFjOWUyYWVlMThjZWYxMWUyZDNiYQ"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/196118768748-008-1400Wx1400H?context=bWFzdGVyfGltYWdlc3wxNDM1NTB8aW1hZ2UvanBlZ3xpbWFnZXMvaDkyL2g5YS8xMTU3NjkwMzU5ODExMC5qcGd8MDczMGVhMWQ0OTQ0ODhmNDFmNGRhZDdjNDllNzE3OWVmNzdiYTllMjM5NDIwYWY5MTFhZDU5OWNiNTc1OGQyMQ"
+            }
+          ]
+        }
+      ],
       "price": 1499000,
       "imageUrl": "https://www.alkomprar.com/medias/196118768748-001-310Wx310H?context=bWFzdGVyfGltYWdlc3wzMjA2OHxpbWFnZS9qcGVnfGltYWdlcy9oYWUvaDJhLzExNTc2ODk5NTM0ODc4LmpwZ3xiZTliMWEwYWVjYjExYTNhNjAwYTZmN2ZjY2QzMTA3NjNjY2U1ZTE0ZDY3N2UyZjIwNmIyZDU1Mzg4MjkxNTQ1",
       "quantity": 9
@@ -85,6 +250,39 @@
       "id": 6,
       "name": "Victus HP 16.1' Pulgadas d0504la",
       "description": "Intel Core i5 - RAM 8GB - Disco SSD 512 GB - Azul Intenso",
+      "details": [
+        {
+          "hdmi": "1",
+          "usb": "2",
+          "usb_c": "1",
+          "weight": "2.47kg",
+          "screen": "16.1 Pulgadas Full HD",
+          "battery": "6 Horas",
+          "connectivity": "Bluetooth, WiFi",
+          "ram": "8 GB",
+          "disk": "Disco Estado Solido (SSD) 512  GB",
+          "processor": "Intel Core i5-11400H 4.5ghz 6 nucleos",
+          "graphic": "NVIDIA GeForce GTX 1650 4GB VRAM",
+          "so": "Windows 11 Home",
+          "images": [
+            {
+              "image": "https://www.alkomprar.com/medias/196337885110-003-1400Wx1400H?context=bWFzdGVyfGltYWdlc3wyNzkzMDl8aW1hZ2UvanBlZ3xpbWFnZXMvaDVjL2gyYy8xMTY4NTIyNTcyNTk4Mi5qcGd8MWE1MDkxOGFjMDM1ZDZlN2FmZjhhNWY5NmExNzUyOTkyMjAyM2Y3ZDg2OGMyYmY5YTRjNWIyNzhjZGI2ODcyYw"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/196337885110-004-1400Wx1400H?context=bWFzdGVyfGltYWdlc3w0MTAxNjN8aW1hZ2UvanBlZ3xpbWFnZXMvaGE3L2gwNi8xMTY4NTIyNjMxNTgwNi5qcGd8Y2ZiY2M4NTlmZGI5YmU3MmExMzNkOTIzMjg4NGY5M2IyY2QyNmRjYWM5Y2FjN2NiOTgxNWQ5YTU3N2Y0NGU0NA"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/196337885110-005-1400Wx1400H?context=bWFzdGVyfGltYWdlc3wxMDU0ODZ8aW1hZ2UvanBlZ3xpbWFnZXMvaDYxL2gzOS8xMTY4NTIyNDU0NjMzNC5qcGd8MDVlMjhhMmQ5OTcxZjk2MDMyNjAxNWY2YjFmMWRmMGIxZDhmOTE5YjA2NDQ5MDM0YTg1NWFmM2VmNjhkNmVkZA"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/196337885110-006-1400Wx1400H?context=bWFzdGVyfGltYWdlc3wxMjYyODN8aW1hZ2UvanBlZ3xpbWFnZXMvaDc0L2g3OC8xMTY4NTIyNjkwNTYzMC5qcGd8MWJiNmJhMDYzZjYxYmYwNTY4YWQ3ZTE0ZDA3ZGJlOGY2OWQ4ZmY2ZjA1N2IzZTYwOWJkZmM5OTVlNWJmZmRkYw"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/196337885110-007-1400Wx1400H?context=bWFzdGVyfGltYWdlc3wyODU1OTd8aW1hZ2UvanBlZ3xpbWFnZXMvaGYxL2hjNi8xMTY4NTIyNzQ5NTQ1NC5qcGd8NmE1ZGIzYmIxNjFhMjBlNGIxZTg0MzRmZGMwZTFiZjIzYzUyMGFmMmIxYzUwNWExNmNjMDA1MTE5ZjUxMmFkYQ"
+            }
+          ]
+        }
+      ],
       "price": 3299000,
       "imageUrl": "https://www.alkomprar.com/medias/196337885110-001-310Wx310H?context=bWFzdGVyfGltYWdlc3wzMjE0N3xpbWFnZS9qcGVnfGltYWdlcy9oMTYvaDkyLzExNjg1MjI0MDg3NTgyLmpwZ3w4NWI1YWE3ZDQzZDc3ZWFkNTIxYjAzNzdjMmI4MDc3YjQ5MTZlYjc1YjM1Yjg3NjEyNjY0ZDhkZWYyZmQ4Yzc4",
       "quantity": 9
@@ -93,6 +291,39 @@
       "id": 7,
       "name": "HP 15,6' Pulgadas dw1078",
       "description": "Intel Core i3 - RAM 12GB - Disco SSD 256 GB - Negro",
+      "details": [
+        {
+          "hdmi": "1",
+          "usb": "3",
+          "usb_c": "1",
+          "weight": "1.74kg",
+          "screen": "15.6 Pulgadas HD",
+          "battery": "8 Horas",
+          "connectivity": "Bluetooth, WiFi",
+          "ram": "8 GB",
+          "disk": "Disco Estado Solido (SSD) 256  GB",
+          "processor": "Intel Core i3-10110U 2.1ghz 2 nucleos",
+          "graphic": "No Tiene Tarjeta Video/Grafica Independiente",
+          "so": "Windows 10 Home 64",
+          "images": [
+            {
+              "image": "https://www.alkomprar.com/medias/195161214219-002-1400Wx1400H?context=bWFzdGVyfGltYWdlc3wyMTc3NTJ8aW1hZ2UvanBlZ3xpbWFnZXMvaDJiL2hjZi8xMDMzNTg3MDY4MTExOC5qcGd8MzM4NjBhOGQwMGRiODE3ZDJiYmYwYmJmODlmMDRlZDQxNTEzZDllOTRmNDU0NGI2Y2VjYzVmOWYzMGM4ZmQ5NQ"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/195161214219-003-1400Wx1400H?context=bWFzdGVyfGltYWdlc3w2NDM1NnxpbWFnZS9qcGVnfGltYWdlcy9oMTMvaGY3LzEwMzM1ODcwMDkxMjk0LmpwZ3w4MmUyMDUwMmE2Nzg2MTZjMDkwNzJhZWM4NWNhZDMxMGNjNjEzMGEwZDMyOGRlNmVlOTE1N2JhYTg5OTBjODgw"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/195161214219-004-1400Wx1400H?context=bWFzdGVyfGltYWdlc3wyMjg4NDR8aW1hZ2UvanBlZ3xpbWFnZXMvaGZmL2hhMy8xMDMzNTg2OTUwMTQ3MC5qcGd8MjBiMWVmOTFkNzdlZTE0MjkwZjgzMDFjZGEyZTNlZTY5OTg4MWZkZjU5N2ZkYTFiYmU0NGQ2MDdiOTc5NWFiZg"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/195161214219-005-1400Wx1400H?context=bWFzdGVyfGltYWdlc3wyMjc4MDd8aW1hZ2UvanBlZ3xpbWFnZXMvaGVmL2gzOC8xMDMzNTg2ODkxMTY0Ni5qcGd8ZDM5NjkyOWVjMWVmY2ZkMmYwZmJkYTVmZGNhMGMwMzU3NmI5Mzk3Y2QzYzRjNTA5YjQwNTg0YzEwMGJhMTI1Yw"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/195161214219-006-1400Wx1400H?context=bWFzdGVyfGltYWdlc3w2MDYyMXxpbWFnZS9qcGVnfGltYWdlcy9oN2QvaDQ4LzEwMzM1ODY4MzIxODIyLmpwZ3xjNzQwNzVjMDg1ZWMwMTdlMjFiYTFmY2JiM2FjMTc1MWMzYmYzYzQ5ZDZhMzM0Y2Q5ZjA0MzM2NGU2ZGU2OGI2"
+            }
+          ]
+        }
+      ],
       "price": 1499000,
       "imageUrl": "https://www.alkomprar.com/medias/195161214219-001-310Wx310H?context=bWFzdGVyfGltYWdlc3wyOTM4NXxpbWFnZS9qcGVnfGltYWdlcy9oZjIvaGI2LzEwMzM1ODcxNDAyMDE0LmpwZ3wyODk4Mjk4MWNhNTZiMWUzYjk2M2Q3NTcyNTI5Y2I4OTc0OTczODZhMThjYjMwNjM1MDM0YzRiYmZhMTNlY2Fm",
       "quantity": 9
@@ -101,6 +332,39 @@
       "id": 8,
       "name": "Asus Vivobook 14' Pulgadas M1402IA",
       "description": "AMD R5 - RAM 8GB - Disco SSD 512 GB - Plateado",
+      "details": [
+        {
+          "hdmi": "1",
+          "usb": "3",
+          "usb_c": "1",
+          "weight": "1.5kg",
+          "screen": "14 Pulgadas Full HD",
+          "battery": "8 Horas",
+          "connectivity": "Bluetooth, WiFi",
+          "ram": "8 GB",
+          "disk": "Disco Estado Solido (SSD) 512  GB",
+          "processor": "AMD Ryzen 5 4600H Processor 3.0 GHz (6C/12T, 11MB Cache, 4.0 GHz Max Boost)",
+          "graphic": "No Tiene Tarjeta Video/Grafica Independiente",
+          "so": "Windows 11 Home",
+          "images": [
+            {
+              "image": "https://www.alkomprar.com/medias/4711081765417-003-1400Wx1400H?context=bWFzdGVyfGltYWdlc3w0MDk1Mzd8aW1hZ2UvanBlZ3xpbWFnZXMvaDg1L2g2ZC8xMjQ2MTY5Mjc4MDU3NC5qcGd8NWUyNDgzZDQwOGYyZGFlZWQzMDExNDJkZmRmZTFjMTk4ZGZiYzQyNGRmYzhlNzkwOGI5ZGRkYzhkNjcwYWNiMQ"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/4711081765417-004-1400Wx1400H?context=bWFzdGVyfGltYWdlc3wxOTY1NDZ8aW1hZ2UvanBlZ3xpbWFnZXMvaDYzL2g1Zi8xMjQ2MTY5MDk3ODMzNC5qcGd8NGQxZGZlYTk2MjlkN2M0NzM4OGQ1MzM2NjI3YzYxNDQzMzI2MTY4OWUyN2QwNzQ4ZWJhYmRkZGMyMzBiNGFlZg"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/4711081765417-005-1400Wx1400H?context=bWFzdGVyfGltYWdlc3wxNzQ0NTd8aW1hZ2UvanBlZ3xpbWFnZXMvaGJlL2hmYS8xMjQ2MTY5MzU2NzAwNi5qcGd8MjJlZDdlNTVhYzQzZmNlYzg5ZDcyM2M1NjFmN2VhNTgyNjVhMTIxMmEzYWU5OWVjMDA3NjgzODY3ZTEzMmFlYQ"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/4711081765417-006-1400Wx1400H?context=bWFzdGVyfGltYWdlc3w3NTAyOXxpbWFnZS9qcGVnfGltYWdlcy9oZTIvaDBhLzEyNDYxNzAwMzE3MjE0LmpwZ3xlNTM4Njk3Yzg2ZDMwZTVkZTAzNjNjZGE0MTFiN2M1NDQxODY2ZmFjMjQ2Y2JhMTgyMjFlMDdlMDQ3MTE2ZjY5"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/4711081765417-007-1400Wx1400H?context=bWFzdGVyfGltYWdlc3w3NzI2N3xpbWFnZS9qcGVnfGltYWdlcy9oODkvaDc2LzEyNDYxNzAwOTA3MDM4LmpwZ3w0ZWUxY2NjYmU0MmRmNmZjNmMzNDBlNWY4NmQ1ZjUzZmNlYmYxOWE1MjU4NWJhYTY2ZDJjNzJmZjQzZWQzZGJi"
+            }
+          ]
+        }
+      ],
       "price": 2599000,
       "imageUrl": "https://www.alkomprar.com/medias/4711081765417-001-310Wx310H?context=bWFzdGVyfGltYWdlc3w1NjE1OXxpbWFnZS9qcGVnfGltYWdlcy9oMGEvaDg2LzEyNDYxNjkxNjk5MjMwLmpwZ3w2MzI1NmM2OGUzYWU5MTA1MDMwOTY2ZTA5YjFjOThiZmFkYjMxZDRmZjdhMWExZTNhM2YxODMyNzA4YzAyNThl",
       "quantity": 9
@@ -109,6 +373,39 @@
       "id": 9,
       "name": "Asus 14' Pulgadas X415JA",
       "description": "Intel Core i3 - RAM 8GB - Disco SSD 256 GB - Gris",
+      "details": [
+        {
+          "hdmi": "1",
+          "usb": "3",
+          "usb_c": "1",
+          "weight": "1.6kg",
+          "screen": "14 Pulgadas Full HD",
+          "battery": "8 Horas",
+          "connectivity": "Bluetooth, WiFi",
+          "ram": "8 GB",
+          "disk": "Disco Estado Solido (SSD) 256  GB",
+          "processor": "Intel Core i3 1005G1 Processor 1.2 GHz (4M Cache, up to 3.4 GHz, 2 cores)",
+          "graphic": "No Tiene Tarjeta Video/Grafica Independiente",
+          "so": "Windows 11 Home",
+          "images": [
+            {
+              "image": "https://www.alkomprar.com/medias/4711081774310-003-1400Wx1400H?context=bWFzdGVyfGltYWdlc3wzMDQzMjF8aW1hZ2UvanBlZ3xpbWFnZXMvaDQyL2gwNy8xMjQ2MTczMDkyMjUyNi5qcGd8MzJiNTA4OTFjZTA0MzFhZjZjZjBiYjg4YWJjNmYzMGNmMWNhZWE0ODhhYmI5NTdhNDg2Y2Y2Mjk4OTMzZmE4Nw"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/4711081774310-004-1400Wx1400H?context=bWFzdGVyfGltYWdlc3wyNTkwODR8aW1hZ2UvanBlZ3xpbWFnZXMvaGNkL2g2My8xMjQ2MTczMTUxMjM1MC5qcGd8OGQ3MWQxY2ViNjZhYzM1NDM3OWI0MTg4NTg5Nzg1MjBjN2ExMWU2Yjc1ODk3ZWM3MTJiNGU1MmIyMmIxNmIwZA"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/4711081774310-005-1400Wx1400H?context=bWFzdGVyfGltYWdlc3w3ODc4OXxpbWFnZS9qcGVnfGltYWdlcy9oZGEvaDViLzEyNDYxNzI4NDY0OTI2LmpwZ3xhZGYzYTk5Yjg2MTM1ZDUxMWE2MmRmYjM2M2ZjNjhkNmUzYTMxNmNjNThhZjkzMTBhOGRhODE1ZGQ3MzlhNjBl"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/4711081774310-006-1400Wx1400H?context=bWFzdGVyfGltYWdlc3w3NTM1OXxpbWFnZS9qcGVnfGltYWdlcy9oMmQvaGQxLzEyNDYxNzMyMTAyMTc0LmpwZ3w2ZmI1Y2M3ZGY4YmJkYTA4MGQzMjkyMTFiOTRjNDQyOWNhYjRkYWZhZTYxOGNjYjYwY2IzNTA0ZDVmYjQ5YWJh"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/4711081774310-002-1400Wx1400H?context=bWFzdGVyfGltYWdlc3wzMzAwMzd8aW1hZ2UvanBlZ3xpbWFnZXMvaGFlL2g4OC8xMjQ2MTczMDMzMjcwMi5qcGd8ZmIyYzA0YzljNTU3ZjMyYTY1ZmViODVkZjQyYjBkOGQwZjhiZjA3YWQ0OTQxMzFlZmIxZjU0YTE0MzM2NmVkNg"
+            }
+          ]
+        }
+      ],
       "price": 1399000,
       "imageUrl": "https://www.alkomprar.com/medias/4711081774310-001-310Wx310H?context=bWFzdGVyfGltYWdlc3w1NjkyMHxpbWFnZS9qcGVnfGltYWdlcy9oNmUvaGE3LzEyNDYxNzI5ODA4NDE0LmpwZ3xlMDgyOWJjMGY0MjNkZWE3ZDM2ZjUyNGJiZWE0NTgwMzFmNWE2ZGZjZTRkZThjN2JlNjU3OWNkZjVhODFlZDIz",
       "quantity": 9
@@ -117,6 +414,39 @@
       "id": 10,
       "name": "HP 15.6' Pulgadas ef2501la",
       "description": "AMD Ryzen 5 - RAM 16GB - Disco SSD 512 GB - Plata Natural",
+      "details": [
+        {
+          "hdmi": "1",
+          "usb": "2",
+          "usb_c": "1",
+          "weight": "1.69kg",
+          "screen": "15.6 Pulgadas HD",
+          "battery": "9 Horas",
+          "connectivity": "Bluetooth, WiFi",
+          "ram": "16 GB",
+          "disk": "Disco Estado Solido (SSD) 512  GB",
+          "processor": "AMD Ryzen™ 5 5500U 4,0 GHz, 8 MB de caché L3, 6 núcleos y 12 subprocesos",
+          "graphic": "No Tiene Tarjeta Video/Grafica Independiente",
+          "so": "Windows 11 Home",
+          "images": [
+            {
+              "image": "https://www.alkomprar.com/medias/196337755727-003-1400Wx1400H?context=bWFzdGVyfGltYWdlc3w2OTE3NHxpbWFnZS9qcGVnfGltYWdlcy9oOTUvaGJmLzExNjM3ODcwMDAyMjA2LmpwZ3w1NzFhNWE3MjczNDE5NzgyOGUyYjdlNTljNjA0ZDBhMTVlZjYxMjdkZjgwYWYxZGIwZjhmOTZlNTk0YmZiM2Rm"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/196337755727-004-1400Wx1400H?context=bWFzdGVyfGltYWdlc3wxODU1MDl8aW1hZ2UvanBlZ3xpbWFnZXMvaGMwL2gxMi8xMTYzNzg3MDU5MjAzMC5qcGd8ZDA0YWYwOWUzNjkwNDUxMGFkNDFlMWU4NGM5ZTZkOGE1M2FkN2M3MTc5YzY0NzI1MjI3ZTdiNDZjNDk5NmI3Nw"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/196337755727-005-1400Wx1400H?context=bWFzdGVyfGltYWdlc3wxNzkzMTR8aW1hZ2UvanBlZ3xpbWFnZXMvaDE5L2hkMi8xMTYzNzg3MTE4MTg1NC5qcGd8NWM1NjI3YTM1NTQ3NjEzMzczNGQzYzg4MWUwZTU2YTlmMjExMjJhNmQ2YTgzMDY5ZmE4YThhYjIwMDQ0NjM5OA"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/196337755727-006-1400Wx1400H?context=bWFzdGVyfGltYWdlc3w0MDkxN3xpbWFnZS9qcGVnfGltYWdlcy9oYWQvaDUwLzExNjM3ODcxNzcxNjc4LmpwZ3wxMDY1MjJlM2JmOGRlZDI1ZmJmNmRmOWYyNTllMTgwZmE4NzY0ZTE5MTY4NmQ3OGYxNzVhOWEyYjUzOGIyODE1"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/196337755727-007-1400Wx1400H?context=bWFzdGVyfGltYWdlc3wzODc0NnxpbWFnZS9qcGVnfGltYWdlcy9oNDgvaDJkLzExNjM3ODcyMzYxNTAyLmpwZ3w1ZjgxYWI1YjQ5NTkwOTI3NjZjYTI4ODg3NjVkZjhmOWFmODNmNGFhMGMyNzA0NzNkNTEzZmQ5YjNkZTA4NmQ1"
+            }
+          ]
+        }
+      ],
       "price": 2599000,
       "imageUrl": "https://www.alkomprar.com/medias/196337755727-001-310Wx310H?context=bWFzdGVyfGltYWdlc3wyODYzOHxpbWFnZS9qcGVnfGltYWdlcy9oMjMvaDg5LzExNjM3ODY4OTUzNjMwLmpwZ3w2MmJmMTZiZGZiODI0MGFjMWNiMTg4NTY0ZmRiMjQxNWQ2MTVkOTc0ZjBhYjlmNTQ3MWQwYzJkNjVjZGMyZDkw",
       "quantity": 9
@@ -125,6 +455,39 @@
       "id": 11,
       "name": "ASUS TUF Gaming F15 15,6' Pulgadas FX506LH",
       "description": "Intel Core I5 - RAM 8GB - Disco SSD 512 GB - Negro",
+      "details": [
+        {
+          "hdmi": "1",
+          "usb": "3",
+          "usb_c": "1",
+          "weight": "2.3kg",
+          "screen": "15.6 Pulgadas Full HD",
+          "battery": "8 Horas",
+          "connectivity": "Bluetooth, WiFi",
+          "ram": "8 GB",
+          "disk": "Disco Estado Solido (SSD) 512  GB",
+          "processor": "Intel Core i5 10300H Processor 2.5 GHz (8M Cache, up to 4.5 GHz, 4 cores)",
+          "graphic": "NVIDIA GeForce GTX 1650 4GB GDDR6",
+          "so": "Windows 11 Home",
+          "images": [
+            {
+              "image": "https://www.alkomprar.com/medias/4711081724025-003-1400Wx1400H?context=bWFzdGVyfGltYWdlc3wzMDcxNDR8aW1hZ2UvanBlZ3xpbWFnZXMvaDBjL2g2MC8xMjM5MDAyMzcyNTA4Ni5qcGd8YzM0NGEyZDVhY2NiZjhiYTJmMzg4MTQ2ZWRiNTliNmFlNGJiNzQ5ZGY2MWNlOThiNGQyNWMxZWQyYjA2YTBlYg"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/4711081724025-004-1400Wx1400H?context=bWFzdGVyfGltYWdlc3wxODExNDR8aW1hZ2UvanBlZ3xpbWFnZXMvaGNmL2hmOS8xMjM5MDAyMTk1NTYxNC5qcGd8NjVmZDdhNGE5ZWIzMDI0NDhiNWIxM2ZmYjFjODU1NTg4NTBhYjMxNjMzNzNhMjA2MTliZjRmNDQwM2YwYjBiNg"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/4711081724025-005-1400Wx1400H?context=bWFzdGVyfGltYWdlc3w3Mjg3OHxpbWFnZS9qcGVnfGltYWdlcy9oYzkvaGNlLzEyMzkwMDI0MzE0OTEwLmpwZ3wwOTVjNTg2MGIwY2FkZDhhY2U2NjE2ZDU3YWQxNTEyZDEwYzM0NjgzNDAzNjk1OWU2YWUwNmIzNmIyZjdjMmQ5"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/4711081724025-006-1400Wx1400H?context=bWFzdGVyfGltYWdlc3w2NzA3NnxpbWFnZS9qcGVnfGltYWdlcy9oNWMvaDRkLzEyMzkwMDI0OTA0NzM0LmpwZ3w4NzVjYTQ3NTkxNjA1MWM1ZTIyYmZmMTdmMjYxODdiNDg1M2RlZTljZTA2N2M2MDQ1ZDZkNWY4ZjdmMzA1OTkz"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/4711081724025-002-1400Wx1400H?context=bWFzdGVyfGltYWdlc3wzODU2MDV8aW1hZ2UvanBlZ3xpbWFnZXMvaDVmL2gyMS8xMjM5MDAyMzEzNTI2Mi5qcGd8MTJjZTQyMWRlZGM3NmMwNWYxZDllZDgwNjdjMTgwYTY3NTJhNzYxNWIwZTI1NTAxMDMyMTI1MDJkNTYyOTE3NA"
+            }
+          ]
+        }
+      ],
       "price": 3299000,
       "imageUrl": "https://www.alkomprar.com/medias/4711081724025-001-310Wx310H?context=bWFzdGVyfGltYWdlc3wzNTA0MXxpbWFnZS9qcGVnfGltYWdlcy9oODgvaGRmLzEyMzkwMDIyNjc2NTEwLmpwZ3xhZDk0ODM1MzkwNTBiNzljOWRjMzU4NDgwYjIxOWQ0ZTgxMTg4MjQzNDI3YTE0OGFkZWZkNjJmMDg0Yjk5OTZj",
       "quantity": 9
@@ -133,6 +496,39 @@
       "id": 12,
       "name": "ASUS 15,6' Pulgadas M515DA",
       "description": "AMD Ryzen 3 - RAM 8GB - Disco SSD 256 GB - Azul",
+      "details": [
+        {
+          "hdmi": "1",
+          "usb": "3",
+          "usb_c": "1",
+          "weight": "1.8kg",
+          "screen": "15.6 Pulgadas Full HD",
+          "battery": "8 Horas",
+          "connectivity": "Bluetooth, WiFi",
+          "ram": "8 GB",
+          "disk": "Disco Estado Solido (SSD) 512  GB",
+          "processor": "AMD Ryzen 3 3250U Processor 2.6 GHz (2C/4T, 5MB Cache, up to 3.5 GHz)",
+          "graphic": "No Tiene Tarjeta Video/Grafica Independiente",
+          "so": "Windows 11 Home",
+          "images": [
+            {
+              "image": "https://www.alkomprar.com/medias/4711081640240-003-1400Wx1400H?context=bWFzdGVyfGltYWdlc3wyNTk5NDh8aW1hZ2UvanBlZ3xpbWFnZXMvaDdlL2g3Yi8xMTcyMzk5MjU2Mzc0Mi5qcGd8NmY5ZThkZWMxMWNkYzAyYTg2YTM3NGI1YTQ3NmU4ZDZmOWY2OTI1Y2Q1MjkzNzM0NTQzNDIzZWYxMjI0MjVmMg"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/4711081640240-004-1400Wx1400H?context=bWFzdGVyfGltYWdlc3wxODk4OTd8aW1hZ2UvanBlZ3xpbWFnZXMvaDM0L2hmMi8xMTcyMzk5MDIwNDQ0Ni5qcGd8Y2ZhYWRkYzRhYzc0OTQ1ZTRhNTBlMjI4MmVhZDJlNzkxMGJiM2ViNTM4OWQ1NGJmOWYzODQxNTdjOWU0OWJjNA"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/4711081640240-005-1400Wx1400H?context=bWFzdGVyfGltYWdlc3w3NDU4OXxpbWFnZS9qcGVnfGltYWdlcy9oMWUvaDBlLzExNzIzOTkzMTUzNTY2LmpwZ3wyMzViZjM1MTk2ODZlMGY3OWZlZDQzNzNiOThiNjQzZjE0ZjYyMmRlNjE5YmQwNmFiYWY1ODU1NmQ0ODc2NWVm"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/4711081640240-006-1400Wx1400H?context=bWFzdGVyfGltYWdlc3w3MDQ0NHxpbWFnZS9qcGVnfGltYWdlcy9oZmUvaDcwLzExNzIzOTkzNzQzMzkwLmpwZ3xkMzdmNDg2Njk1ZWFiMDZjYzFlMWIyMjM2NTMzMzdhYzVkNzFhYzgxNGE1YTBkYWY5OWYyYTg5NGZkNzA5ZmZj"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/4711081640240-002-1400Wx1400H?context=bWFzdGVyfGltYWdlc3wzMjYyNDF8aW1hZ2UvanBlZ3xpbWFnZXMvaDhlL2hlNi8xMTcyMzk5MTk3MzkxOC5qcGd8MWYwMWEwY2RmZjY3MWRkMDQ0ZWY4MTE3MjkyMzBlNjE1NWJkNTExNTQyZjZkZGI4ZjgyM2MwZTU1MjVmZjMwNw"
+            }
+          ]
+        }
+      ],
       "price": 1449000,
       "imageUrl": "https://www.alkomprar.com/medias/4711081640240-001-310Wx310H?context=bWFzdGVyfGltYWdlc3w0Njc1MXxpbWFnZS9qcGVnfGltYWdlcy9oMDYvaGIzLzExNzIzOTkxNTE1MTY2LmpwZ3w2ZDk5MjU1YzczNzA4MjU0NWIyZTc4ZDM5NDAyYTNkMzUxYTYyOGJlYzhhMTJhMGY3MzNjY2JhNzAzOWZlMjg4",
       "quantity": 9
@@ -141,6 +537,39 @@
       "id": 13,
       "name": "HP 15.6' Pulgadas ef2508la",
       "description": "AMD Ryzen 5 - RAM 4GB - Disco SSD 256 GB - Negro",
+      "details": [
+        {
+          "hdmi": "1",
+          "usb": "2",
+          "usb_c": "1",
+          "weight": "1.79kg",
+          "screen": "15.6 Pulgadas HD",
+          "battery": "9 Horas",
+          "connectivity": "Bluetooth, WiFi",
+          "ram": "4 GB",
+          "disk": "Disco Estado Solido (SSD) 256  GB",
+          "processor": "AMD Ryzen™ 5 5500U 4,0 GHz, 8 MB de caché L3, 6 núcleos y 12 subprocesos",
+          "graphic": "No Tiene Tarjeta Video/Grafica Independiente",
+          "so": "Windows 11",
+          "images": [
+            {
+              "image": "https://www.alkomprar.com/medias/196337771536-003-1400Wx1400H?context=bWFzdGVyfGltYWdlc3w0ODI2NHxpbWFnZS9qcGVnfGltYWdlcy9oNjMvaDY1LzEyMzQ3Njc0NjU2Nzk4LmpwZ3w3ZmQ5YmE5MjUwNTc5ODQwNTM0ZTAwNDhmMzZkNGU5ZmE3YzQ5MThjY2M5NTNkNTA1YWI3MmNkNGQ5NjFjZDE2"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/196337771536-004-1400Wx1400H?context=bWFzdGVyfGltYWdlc3w0NTA4ODF8aW1hZ2UvanBlZ3xpbWFnZXMvaDI4L2g1YS8xMjM0NzY3ODkxNjYzOC5qcGd8OWE0ZWY3MTk5NWNiOWYxZDQxZTEwNjQxY2U2OGVkOGQ0Nzc4YWM5MDI0OTJlNTYzYjI1MjczZmZhOWU5ODdmZA"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/196337771536-005-1400Wx1400H?context=bWFzdGVyfGltYWdlc3wzMTM0MDB8aW1hZ2UvanBlZ3xpbWFnZXMvaDM4L2hjNS8xMjM0NzY3OTUwNjQ2Mi5qcGd8ZjM2ZjJjOGY4OTkzYjI3NzVlMzY3YTlhM2MwYjA5YWNhNzg5N2Y1MjQ3ZTMwNWY1ODFmNDg5MTBmZjk5ZWE2MA"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/196337771536-006-1400Wx1400H?context=bWFzdGVyfGltYWdlc3wyNjAzNzJ8aW1hZ2UvanBlZ3xpbWFnZXMvaGIzL2hlNy8xMjM0NzY4MDA5NjI4Ni5qcGd8MTJjZjhkZjZlN2M5ODYzZWY2OGQ0YzJjMTZlMTRhNzgwMTllZDNkMjZlNDMzNmQxMzNkNzE3NDAxOWE5NGNjNA"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/196337771536-002-1400Wx1400H?context=bWFzdGVyfGltYWdlc3wzNDgyNzF8aW1hZ2UvanBlZ3xpbWFnZXMvaGY4L2g0Yy8xMjM0NzY3NzczNjk5MC5qcGd8MDNmNGY1MjVjMjg1OTA5YmEyMjIxNjZiZWJmMzM5ZjA5MGE1N2QzZTgzMzRkNWIwN2I5NzI4MGIzNDUwNTI5Yg"
+            }
+          ]
+        }
+      ],
       "price": 1499000,
       "imageUrl": "https://www.alkomprar.com/medias/196337771536-001-310Wx310H?context=bWFzdGVyfGltYWdlc3wzODIwN3xpbWFnZS9qcGVnfGltYWdlcy9oOTIvaDBiLzEyMzQ3Njc3Mjc4MjM4LmpwZ3xkMTRhMzM2NWNmZDU2M2ZhMTA4NjZlZmIzMzEzNTFlOTNjMzBmYjkxY2U0OGQwZDdmMmRhYWJlZTdiMTRjMDFl",
       "quantity": 9
@@ -149,6 +578,39 @@
       "id": 14,
       "name": "ACER 15.6' Pulgadas R8NL",
       "description": "AMD Ryzen 5 - RAM 4GB - Disco SSD 256GB - Plateado",
+      "details": [
+        {
+          "hdmi": "1",
+          "usb": "3",
+          "usb_c": "1",
+          "weight": "1.8kg",
+          "screen": "15.6 Pulgadas Full HD",
+          "battery": "8 Horas",
+          "connectivity": "Bluetooth, WiFi",
+          "ram": "4 GB",
+          "disk": "Disco Estado Solido (SSD) 256  GB",
+          "processor": "AMD Ryzen™ 5 5500U 4,0 GHz, 2.1ghz, 6 núcleos y 12 subprocesos",
+          "graphic": "No Tiene Tarjeta Video/Grafica Independiente",
+          "so": "Windows 10",
+          "images": [
+            {
+              "image": "https://www.alkomprar.com/medias/4710886979388-003-1400Wx1400H?context=bWFzdGVyfGltYWdlc3wyNTM0MTd8aW1hZ2UvanBlZ3xpbWFnZXMvaDU1L2gzOS8xMjcwNTc1MDE1NTI5NC5qcGd8ZWY3ZWZmODk3YmNlMGQ5ZWZmYTVjNTNkZWI5OWI1NmY1NjYxOTI4OWY5YWNlNzBkZDQ3OTQ4OWFmMzg5ZGNlOQ"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/4710886979388-005-1400Wx1400H?context=bWFzdGVyfGltYWdlc3w1NDA4NXxpbWFnZS9qcGVnfGltYWdlcy9oNGIvaDJmLzEyNzA1NzQ3NjMyMTU4LmpwZ3w3MjY1NDEyMTdkY2FkMzZlMDlhOTI3YzlmMjUwN2NlMjU4YmMxYTM3OGM3NTE0NzFlNzVhM2JmNTRlNjhmZGIy"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/4710886979388-006-1400Wx1400H?context=bWFzdGVyfGltYWdlc3w1MzQ3MXxpbWFnZS9qcGVnfGltYWdlcy9oMTMvaDc0LzEyNzA1NzUxMzM0OTQyLmpwZ3wyNDZjZDFlNzU0M2I0OTJjYTgzM2M1MGFjMTAyMzRiYmQ4ZTZjOGM5NDUxYTZkNjZkZjU1MWE4MjBlMzNhMjdl"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/4710886979388-007-1400Wx1400H?context=bWFzdGVyfGltYWdlc3wyMDI1MzR8aW1hZ2UvanBlZ3xpbWFnZXMvaDY4L2g3OC8xMjcwNTc1MjUxNDU5MC5qcGd8N2Q4ZDI2OGNmODA1MjI5ODllM2U2OTNhNjE3N2U1OGM3ZTdjMDNhMzYwNmY1NmYyZWE3YjE4NTlkYmE5YjJiMg"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/4710886979388-008-1400Wx1400H?context=bWFzdGVyfGltYWdlc3w4ODU2MXxpbWFnZS9qcGVnfGltYWdlcy9oNTgvaDBkLzEyNzA1NzUxOTI0NzY2LmpwZ3wxYjBmYTc0MWIyZTY5YjQ4NTgyMTFjYzI1MWU4NDE3Zjk2MTRkZjY0ZmM3NGE2Y2MwM2UxM2RjOTEwNzRjMjhl"
+            }
+          ]
+        }
+      ],
       "price": 1799000,
       "imageUrl": "https://www.alkomprar.com/medias/4710886979388-001-310Wx310H?context=bWFzdGVyfGltYWdlc3w2NTAwNXxpbWFnZS9qcGVnfGltYWdlcy9oNmMvaGQ1LzEyNzA1NzQ5MTA2NzE4LmpwZ3wzMDkxNWE2Nzg0NGU3NTI1NTQzNzVhMWFiYmRlMWE0OTIzMDdkZTMxNmVhZTI2NmFkZGM3YmI2NmFlZmVhYjVm",
       "quantity": 9
@@ -157,6 +619,39 @@
       "id": 15,
       "name": "ACER 15.6' Pulgadas 52B9",
       "description": "Intel Core i5 - RAM 8GB - Disco HDD 1TB - Negro",
+      "details": [
+        {
+          "hdmi": "1",
+          "usb": "3",
+          "usb_c": "1",
+          "weight": "2.3kg",
+          "screen": "15.6 Pulgadas Full HD",
+          "battery": "7 Horas",
+          "connectivity": "Bluetooth, WiFi",
+          "ram": "8 GB",
+          "disk": "Disco Estado Solido (SSD) 1 TB",
+          "processor": "Intel Core i5 10300H 2.5ghz 4 nucleos",
+          "graphic": "NVIDIA GEFORCE GTX 1650 4GB - GDDR6",
+          "so": "Windows 10",
+          "images": [
+            {
+              "image": "https://www.alkomprar.com/medias/4710886637011-003-1400Wx1400H?context=bWFzdGVyfGltYWdlc3wzNzY2MjJ8aW1hZ2UvanBlZ3xpbWFnZXMvaGUwL2g5MC8xMjcwNTcyNTkwNjk3NC5qcGd8ZWJhMjZlMzVjOTQ0ZTUwNTVlM2Y1ZmM0MjEyMjU0NzBiNzJlYTQ4MTZiZWQzNzU2ZDE1YTM4YzU3MGYxNDAyNw"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/4710886637011-004-1400Wx1400H?context=bWFzdGVyfGltYWdlc3w4MDM3OHxpbWFnZS9qcGVnfGltYWdlcy9oZTcvaDg1LzEyNzA1NzIzNDE2NjA2LmpwZ3wzM2RjMzIxZTc5N2Q2NDRjZWRkYjNlMDc1ZjY1NDdiMmU2NGZmN2NlZjgzYjZkZGZlMTJmZDVhYWE3Mzk2NzY5"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/4710886637011-005-1400Wx1400H?context=bWFzdGVyfGltYWdlc3w3MzI3MHxpbWFnZS9qcGVnfGltYWdlcy9oYjkvaDJmLzEyNzA1NzI2NDk2Nzk4LmpwZ3w1MWNmZWM3ZjE0ZjhiNzkyYmZiNDFlMTkwMjUzYTMyNjE1NmJiYmI5NzE1MjQ5MmYxZWYxOTE1ZjZjMDI2Zjcw"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/4710886637011-006-1400Wx1400H?context=bWFzdGVyfGltYWdlc3wyNzAwMDd8aW1hZ2UvanBlZ3xpbWFnZXMvaDhhL2hkNC8xMjcwNTcyNzY3NjQ0Ni5qcGd8M2ViOWIyMTBiNjA5MjViYzM2YzhkZGNmMzI4ZmRhODE0YTRlNGNhMTZjMmQxY2E2NGE2OTczODg3ZmNhMGM0OQ"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/4710886637011-007-1400Wx1400H?context=bWFzdGVyfGltYWdlc3wxNDExNTl8aW1hZ2UvanBlZ3xpbWFnZXMvaDFlL2g1My8xMjcwNTcyNzA4NjYyMi5qcGd8Yjc3MjFmY2I4ZmNkNzNlYjkxOTBjODVkMzRhZGIyNTNkY2I2Y2VkODFlMDIyMDMxMDQ0MGQ1ODcxMGMxYmE4ZQ"
+            }
+          ]
+        }
+      ],
       "price": 2799000,
       "imageUrl": "https://www.alkomprar.com/medias/4710886637011-001-310Wx310H?context=bWFzdGVyfGltYWdlc3w4OTMwMHxpbWFnZS9qcGVnfGltYWdlcy9oMjIvaDJiLzEyNzA1NzI0NzI3MzI2LmpwZ3xhNzFlZTM0NDYwYmVmMzhlM2VkY2E5YTIwN2I2Y2VjMDgzZjY5MjI1OTg5MjZmNTc0NjFjOTk3YmRkMTQ2NGNh",
       "quantity": 9
@@ -165,6 +660,39 @@
       "id": 16,
       "name": "LENOVO 15,6' Pulgadas IdeaPad 3",
       "description": "Intel Core i3 - RAM 8GB - Disco SSD 256GB - Azul",
+      "details": [
+        {
+          "hdmi": "1",
+          "usb": "3",
+          "usb_c": "1",
+          "weight": "1.7kg",
+          "screen": "15.6 Pulgadas Full HD",
+          "battery": "11 Horas",
+          "connectivity": "Bluetooth, WiFi",
+          "ram": "8 GB",
+          "disk": "Disco Estado Solido (SSD) 256 GB",
+          "processor": "Intel Core i3 10110U 4T, 2,1/4,1 GHz, 4 MB",
+          "graphic": "No Tiene Tarjeta Video/Grafica Independiente",
+          "so": "Windows 11 HOME",
+          "images": [
+            {
+              "image": "https://www.alkomprar.com/medias/196378400600-003-1400Wx1400H?context=bWFzdGVyfGltYWdlc3wzMzU0MDR8aW1hZ2UvanBlZ3xoNTUvaDcyLzEzMzQ0MDM0OTE0MzM0LzE5NjM3ODQwMDYwMF8wMDNfMTQwMFd4MTQwMEh8YTNkNDQwZTU4YTI4NjkzMjk4YWUzN2RjNzQ0YTE2YTgyODIzMmE0ZTJiODYwOTRjMDk4MTc1MTMzZWYxM2U0Mg"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/196378400600-005-1400Wx1400H?context=bWFzdGVyfGltYWdlc3wyNjI4NTR8aW1hZ2UvanBlZ3xoNmMvaDQzLzEzMzQ0MDM2MDkzOTgyLzE5NjM3ODQwMDYwMF8wMDVfMTQwMFd4MTQwMEh8ZTU3NzIxYjE1Y2MxZDM4ZWRlZjgxMThlNzE2ZDYyYzYwZTgzYjY5Y2UzM2Y0ZGM4ZWY0ZjAxYTk4M2Q5YzBiMA"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/196378400600-007-1400Wx1400H?context=bWFzdGVyfGltYWdlc3wyNjg0NDR8aW1hZ2UvanBlZ3xoZDMvaGIzLzEzMzQ0MDM3MjczNjMwLzE5NjM3ODQwMDYwMF8wMDdfMTQwMFd4MTQwMEh8ODcxYmE2YjFmZmVhOTkzNWQ1NWZhMTJiNGZjYmFkZTUyYWVmNjZjNmNmMTZmZDBhYzE2YTYyNDczNDI4MWVhNg"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/196378400600-008-1400Wx1400H?context=bWFzdGVyfGltYWdlc3wyMTQwMzN8aW1hZ2UvanBlZ3xoMzEvaGM4LzEzMzQ0MDM3ODYzNDU0LzE5NjM3ODQwMDYwMF8wMDhfMTQwMFd4MTQwMEh8NDk5NjAxYTMxZWNmMDIxMzYwMzgwYmM0OTkzNzA3YjM4Yzc1NjE5YjgzYzgyYjUxYjMxODQ3MGZkNmMzYjkwNQ"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/196378400600-009-1400Wx1400H?context=bWFzdGVyfGltYWdlc3wxMDczOTJ8aW1hZ2UvanBlZ3xoYzQvaGRiLzEzMzQ0MDM4NDUzMjc4LzE5NjM3ODQwMDYwMF8wMDlfMTQwMFd4MTQwMEh8ZWY5MjBiNmM3M2VhYzQ2NDIyNjRmMmVjZjg1MGNmZjUzZmFlMTc5YWEwOGVhMWJkZDk3YWIwZjIxZTRlM2VlYw"
+            }
+          ]
+        }
+      ],
       "price": 1399000,
       "imageUrl": "https://www.alkomprar.com/medias/196378400600-001-310Wx310H?context=bWFzdGVyfGltYWdlc3w1Njg5MnxpbWFnZS9qcGVnfGhmZS9oZGUvMTMzNDQwMzM4NjU3NTgvMTk2Mzc4NDAwNjAwXzAwMV8zMTBXeDMxMEh8NjEzNTY4YTQwOWNjNTlhZGE3NTJiOTAyNDc0M2QzMGIzMDhjZDE5YTIyNjZiODk4YWU1YTYyNzI2OGM3NTUxNw",
       "quantity": 9
@@ -173,6 +701,39 @@
       "id": 17,
       "name": "LENOVO 15,6' Pulgadas IdeaPad Gaming 3",
       "description": "AMD Ryzen 5 - RAM 8GB - Disco SSHD 1TB 256GB - Negro",
+      "details": [
+        {
+          "hdmi": "1",
+          "usb": "2",
+          "usb_c": "1",
+          "weight": "2.2kg",
+          "screen": "15.6 Pulgadas Full HD",
+          "battery": "6.7 Horas",
+          "connectivity": "Bluetooth, WiFi",
+          "ram": "8 GB",
+          "disk": "Disco Hibrido (1 TB HDD + 256 GB SDD)",
+          "processor": "AMD R5 4600H 12T, 3,0/4,0 GHz, 3 MB L2/8 MB L3",
+          "graphic": "NVIDIA GeForce® GTX 1650 TI",
+          "so": "Windows 10 HOME",
+          "images": [
+            {
+              "image": "https://www.alkomprar.com/medias/196379251331-003-1400Wx1400H?context=bWFzdGVyfGltYWdlc3wxMjEzMDV8aW1hZ2UvanBlZ3xpbWFnZXMvaDUyL2g1Zi8xMTYxNTEyNzk5NDM5OC5qcGd8NTg5ZGQ3M2E5NGY5NmZiYWNhMTYzM2NjNWRiYjkwYWFmMzgxNjAyODRlN2YyMDdjYmVmOGNlMGEzNmIwZGU0NA"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/196379251331-005-1400Wx1400H?context=bWFzdGVyfGltYWdlc3wxMzc5NTZ8aW1hZ2UvanBlZ3xpbWFnZXMvaDcxL2gzMS8xMTYxNTEyOTE3NDA0Ni5qcGd8ZTZhMjdjZmFjMDc4YTQzNGE3ZWRlYWY0YWIwZjA2NDU5MWIwOGYzMTI0MWNiYzdlYzFlMTU5NjY1ODcxNGU3Nw"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/196379251331-007-1400Wx1400H?context=bWFzdGVyfGltYWdlc3wxNTY2NjN8aW1hZ2UvanBlZ3xpbWFnZXMvaGQxL2hhMS8xMTYxNTEzMDM1MzY5NC5qcGd8MWJmNTZmMThiNzgyZmZlZmIzNmFlZmY2MjIxZDZhN2JkNDlmOWJkNWQ1Y2U1ODIzYTA3YmNmYzU2ZTI5ZTQwZQ"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/196379251331-008-1400Wx1400H?context=bWFzdGVyfGltYWdlc3w2MjAwMnxpbWFnZS9qcGVnfGltYWdlcy9oMTAvaDY4LzExNjE1MTMwOTQzNTE4LmpwZ3xhYmUzYmVkYjg2NDQ4MjhlMzcxN2ZiMDM3YWI3MDJkYmE1YmVlNjg0OWUxOTE3ZTI5OGYwNWU0OTQwMTliZWU2"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/196379251331-009-1400Wx1400H?context=bWFzdGVyfGltYWdlc3w2NzA4NnxpbWFnZS9qcGVnfGltYWdlcy9oZmYvaDAyLzExNjE1MTMxNTMzMzQyLmpwZ3xjZmJkNGNiMjFiZGNhZGE2MzYyNjY1NTMxMTU5NTI1ZGE3NDJkZmQ5NTZiYmJmOGUxMTc3MzllMmRlMmY5Y2Ri"
+            }
+          ]
+        }
+      ],
       "price": 3299000,
       "imageUrl": "https://www.alkomprar.com/medias/196379251331-001-310Wx310H?context=bWFzdGVyfGltYWdlc3wyODU0NnxpbWFnZS9qcGVnfGltYWdlcy9oMTAvaDMzLzExNjE1MTI2OTQ1ODIyLmpwZ3xjYTU1NDg3NjI0ZjUyNDljYzU5ODIyYjc5YmZlNDFkNDY5YjgzZGYzMTgxOWRjMjVkNDQwNDk2MzUzMDY0NzZl",
       "quantity": 9
@@ -181,6 +742,39 @@
       "id": 18,
       "name": "MacBook Air de 13' Pulgadas MGN63LA/A",
       "description": "Chip M1 RAM 8GB Disco Estado Solido 256 GB - Gris espacial",
+      "details": [
+        {
+          "hdmi": "1",
+          "usb": "2",
+          "usb_c": "1",
+          "weight": "1.29kg",
+          "screen": "13.3 Pulgadas Retina",
+          "battery": "18 Horas",
+          "connectivity": "Bluetooth, WiFi",
+          "ram": "8 GB",
+          "disk": "Disco Estado Solido (SSD) 256 GB",
+          "processor": "APPLE M1",
+          "graphic": "No Tiene Tarjeta Video/Grafica Independiente",
+          "so": "MacOS Big Sur",
+          "images": [
+            {
+              "image": "https://www.alkomprar.com/medias/194252425824-002-1400Wx1400H?context=bWFzdGVyfGltYWdlc3wxMzgwMTR8aW1hZ2UvanBlZ3xpbWFnZXMvaDlkL2hhMy8xMDYyNTM5ODg5ODcxOC5qcGd8M2EwOWI1MWU3OGM5NjY5YzVkZmQxZTQxMWRjM2NhZjlkNDNiMGFmNDA5YWQ1Y2VkZGJlN2VjY2Q5MzVhYTk4OQ"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/194252425824-003-1400Wx1400H?context=bWFzdGVyfGltYWdlc3wxOTAyOTV8aW1hZ2UvanBlZ3xpbWFnZXMvaDhkL2gzOC8xMDYyNTM5OTQ4ODU0Mi5qcGd8NmZjNWEyZTU2ZmViY2I0YmVjNDY1YzNmNmRlMjgxZmY2ZWVlY2E1ZmIxYjRjOWI2MDJiMjdmMjBlMTExYzEyZQ"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/194252425824-004-1400Wx1400H?context=bWFzdGVyfGltYWdlc3wxNDUxODl8aW1hZ2UvanBlZ3xpbWFnZXMvaDk4L2g4ZS8xMDQ0MTA3MTgyMDgzMC5qcGd8YjhjNzUwNDViZjA3N2ViMWQzMzEwZGM0MTExYTk0YTIxMGY3MjE3YmE1NzI0ZWI5MTZkNjYzMTdkYzI5M2MyYw"
+            },
+            {
+              "image": "https://http2.mlstatic.com/D_NQ_NP_2X_640916-MLA46516517281_062021-F.webp"
+            },
+            {
+              "image": "https://http2.mlstatic.com/D_NQ_NP_2X_628610-MLA46516504412_062021-F.webp"
+            }
+          ]
+        }
+      ],
       "price": 5239000,
       "imageUrl": "https://www.alkomprar.com/medias/194252425824-001-310Wx310H?context=bWFzdGVyfGltYWdlc3wyODEyM3xpbWFnZS9qcGVnfGltYWdlcy9oZGQvaDI4LzEwNDQxMDcwMTgyNDMwLmpwZ3xmNGMwNTQyZGM2Y2EyYTkyMTI0YWMxYzg5NzFhZDBkY2Q0YzkzMTZhYmQzYTdhYjMwYTUyM2VlZjMzMmQ0YmI1",
       "quantity": 9
@@ -189,6 +783,39 @@
       "id": 19,
       "name": "Victus HP 16.1' Pulgadas d0505la",
       "description": "Intel Core i5 - RAM 16GB- Disco SSD 512 GB - Azul",
+      "details": [
+        {
+          "hdmi": "1",
+          "usb": "3",
+          "usb_c": "1",
+          "weight": "2.46kg",
+          "screen": "16.1 Pulgadas Full HD",
+          "battery": "6 Horas",
+          "connectivity": "Bluetooth, WiFi",
+          "ram": "16 GB",
+          "disk": "Disco Estado Solido (SSD) 512 GB",
+          "processor": "Intel Core i5-11400H 4,5 GHz con tecnología Intel® Turbo Boost, 12 MB de caché L3, 6 núcleos y 12 subprocesos ",
+          "graphic": "NVIDIA GeForce® GTX 1650",
+          "so": "Windows 11 Home",
+          "images": [
+            {
+              "image": "https://www.alkomprar.com/medias/196337885127-003-1400Wx1400H?context=bWFzdGVyfGltYWdlc3wzNzIxMjV8aW1hZ2UvanBlZ3xpbWFnZXMvaDI4L2g2Mi8xMTc1MjAyMjgwMjQ2Mi5qcGd8ZmFhZjJiNDFjOGQ5YmVmYzQwNDMzMDRjY2RiZDg4MzkyYTgyOTEwYWVmOTQ0YWQ0NTQ4MTJmM2Y3MzMxMTc4Yw"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/196337885127-005-1400Wx1400H?context=bWFzdGVyfGltYWdlc3wxMjkzMTh8aW1hZ2UvanBlZ3xpbWFnZXMvaDgwL2g4Ni8xMTc1MjAyMzUyMzM1OC5qcGd8MWQ2NWZhMDE1ZGY2NWM3ZTJiYWRmYjAwM2U0OTE1MGY0YjFjZjc3YWNhNjk0NWI4ZjRkYzM0NmMxYjZiMzYxMg"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/196337885127-006-1400Wx1400H?context=bWFzdGVyfGltYWdlc3wxNDk1NDN8aW1hZ2UvanBlZ3xpbWFnZXMvaDcwL2gxYi8xMTc1MjAyNDExMzE4Mi5qcGd8MGMzM2YwYzJlNzJlMjJmNzk5MjljYzk1MGQ4NGQ2NWI3MTBiYmIyYzZjOTZhN2VlYmE2NjY5MzQxODkzNzc2NQ"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/196337885127-004-1400Wx1400H?context=bWFzdGVyfGltYWdlc3wyNzUxNTJ8aW1hZ2UvanBlZ3xpbWFnZXMvaDM0L2g2NS8xMTc1MjAyMjE0NzEwMi5qcGd8ZGRmNzk0NDMzOWNiMjBhYWMwY2E3YzFiYzA0Y2FiY2VmMGVmYTE0Y2RhNTJmNTZmNmRlNTFlMWJkZWNhMmQ2ZQ"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/196337885127-007-1400Wx1400H?context=bWFzdGVyfGltYWdlc3wxOTgzNzh8aW1hZ2UvanBlZ3xpbWFnZXMvaDUwL2gxZS8xMTc1MjAyNDcwMzAwNi5qcGd8OGVhMzg4Y2U4N2EzNzI2NTJkYmY3Yjc1MTQ4MjFkODg0YzdjZDRmNjcwODEwZDJkNWE5NDI2MjNhZjQ4ZjAzMw"
+            }
+          ]
+        }
+      ],
       "price": 3999000,
       "imageUrl": "https://www.alkomprar.com/medias/196337885127-001-310Wx310H?context=bWFzdGVyfGltYWdlc3w0MzUyOXxpbWFnZS9qcGVnfGltYWdlcy9oNWYvaGUzLzExNzUyMDIxNjg4MzUwLmpwZ3w3ZGRlMmE3YjYwMWY0YjdiNGM3YmY4YzljNDcxNDRiN2Y3NDRkNzQ2YzMyOTQ2ZTk4ZGViYzMzN2Q0ZWE5MWRk",
       "quantity": 9
@@ -197,6 +824,39 @@
       "id": 20,
       "name": "ASUS VivoBook Pro OLED 14' Pulgadas K3400PA",
       "description": "Intel Core I5 - RAM 16GB - Disco SSD 512GB - Azul",
+      "details": [
+        {
+          "hdmi": "1",
+          "usb": "3",
+          "usb_c": "1",
+          "weight": "1.4kg",
+          "screen": "14 Pulgadas OLED",
+          "battery": "8 Horas",
+          "connectivity": "Bluetooth, WiFi",
+          "ram": "16 GB",
+          "disk": "Disco Estado Solido (SSD) 512 GB",
+          "processor": "Intel Core i5 11300H Processor 3.1 GHz (8M Cache, up to 4.4 GHz, 4 cores)",
+          "graphic": "No Tiene Tarjeta Video/Grafica Independiente",
+          "so": "Windows 10 Home",
+          "images": [
+            {
+              "image": "https://www.alkomprar.com/medias/4711081430254-003-1400Wx1400H?context=bWFzdGVyfGltYWdlc3wyMTEzMDR8aW1hZ2UvanBlZ3xpbWFnZXMvaDU3L2g0Yi8xMTQwNjIwMTI5MDc4Mi5qcGd8N2RlZmZlZGExY2IyODllNjFhYzM3OWUxODE2MWJlZDVhMjQ0NjhlZmU2ODZjYWRiNjI1ZWE0ZTljN2Y5MTAyOA"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/4711081430254-004-1400Wx1400H?context=bWFzdGVyfGltYWdlc3w2NzIzMXxpbWFnZS9qcGVnfGltYWdlcy9oMTgvaDg1LzExNDA2MjAxODgwNjA2LmpwZ3wyN2QwN2Y2YWIyNzAyNDc4OGM3ZTliNGQ2MTJiYmY2OWFmOTQ4NWU2YTlhZDY2MjRlNGJhMWIxZTA4MDcwNjVi"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/4711081430254-005-1400Wx1400H?context=bWFzdGVyfGltYWdlc3w0MjUwNHxpbWFnZS9qcGVnfGltYWdlcy9oMjgvaGYwLzExNDA2MjAyNDcwNDMwLmpwZ3xkOTNlNzc0OWZkNTE4MTkzNTE0MjUyMjY1ZWUxZDcyN2EyNTQzMDlkYWQwNGU3ZTg1YzlkZWVjODU4YWM5MjE2"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/4711081430254-006-1400Wx1400H?context=bWFzdGVyfGltYWdlc3wzNDk3MHxpbWFnZS9qcGVnfGltYWdlcy9oOWUvaGE3LzExNDA2MjAzMjU2ODYyLmpwZ3w2ZmRlOTRhZjI0YWI3NGEzYmYwYTUzZTRmOTBmZTMxNThmNzA0MjM3YmM3N2QxNGFjZjVkMGYyM2VhZjg4NDky"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/4711081430254-007-1400Wx1400H?context=bWFzdGVyfGltYWdlc3wzNzU2MHxpbWFnZS9qcGVnfGltYWdlcy9oMzIvaDI2LzExNDA2MjAzODQ2Njg2LmpwZ3xjZmFjNzM1NDNlNThhYjBjZmIyNWRlNTIzMjlkOTM4MzY0ZDEyNTYzNDhkYTI0YTU3OWVlOTRiOWVmZGQwNzZh"
+            }
+          ]
+        }
+      ],
       "price": 3699000,
       "imageUrl": "https://www.alkomprar.com/medias/4711081564324-001-310Wx310H?context=bWFzdGVyfGltYWdlc3w0ODU0NXxpbWFnZS9qcGVnfGltYWdlcy9oODgvaDA2LzExNTM3MTg4NDg3MTk4LmpwZ3wyZjFjNDE0OTIzYzM4MjlhZGQ1MzQ1NGY2MmMwYzJjOTYzZmJlNDQwYWY1ZTIxMjU0ZWEzMDA3OWFiZDRmYWEz",
       "quantity": "9"
@@ -205,6 +865,39 @@
       "id": 21,
       "name": "HP 14' Pulgadas cf2521la",
       "description": "Intel Core i5 - RAM 4GB - Disco SSD 256 GB - Gris Pizarra",
+      "details": [
+        {
+          "hdmi": "1",
+          "usb": "2",
+          "usb_c": "1",
+          "weight": "1.47kg",
+          "screen": "14 Pulgadas HD",
+          "battery": "10 Horas",
+          "connectivity": "Bluetooth, WiFi",
+          "ram": "4 GB",
+          "disk": "Disco Estado Solido (SSD) 256 GB",
+          "processor": "Intel Core i5-10210U 4.2ghz 4 nucleos",
+          "graphic": "No Tiene Tarjeta Video/Grafica Independiente",
+          "so": "Windows 10 Home 64",
+          "images": [
+            {
+              "image": "https://www.alkomprar.com/medias/196068240738-003-1400Wx1400H?context=bWFzdGVyfGltYWdlc3wyMTc0NjZ8aW1hZ2UvanBlZ3xpbWFnZXMvaGEwL2g2ZS8xMTQ5MDA4NjY0OTg4Ni5qcGd8NGVmNjFjZTE0ZThkODQ4MWIyYzRmOTQ4NmJkYzEzNGM5NjhiMWNhOGZhYTEzZDM4NTY5MjRiMGJkYjM2ZDcyMg"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/196068240738-004-1400Wx1400H?context=bWFzdGVyfGltYWdlc3w2MzU3MXxpbWFnZS9qcGVnfGltYWdlcy9oZGMvaDc4LzExNDkwMDg5NTk5MDA2LmpwZ3w4OGQyODk2YTZmYmY0MWM1MzA4YmNiNjU1YmExNGY0NDVkMDk3NDliMDFkOTU4M2UyNGMyMzg3Nzg5MzVlODRh"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/196068240738-005-1400Wx1400H?context=bWFzdGVyfGltYWdlc3wxOTgxNzN8aW1hZ2UvanBlZ3xpbWFnZXMvaGQzL2hkYi8xMTQ5MDA5MDE4ODgzMC5qcGd8NDIwM2ExNmQ2NjEyYjhkNGVkMWM2M2ZkZGU4YjdiY2I2OThlYWE1MDQzYmRiNmVkZjk2MGU2Mjc3ZTUxN2RhMw"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/196068240738-006-1400Wx1400H?context=bWFzdGVyfGltYWdlc3wxMDQyNjZ8aW1hZ2UvanBlZ3xpbWFnZXMvaDY2L2g1YS8xMTQ5MDA5MDc3ODY1NC5qcGd8Y2IwZThkZDlkZjU0OGQxZWJjZDk5MWZkYmU5MjEzNjk3NDUzNDY4OTI4ZTk1NWVjYjY5ZmQyZTgyZTFmMDlmOA"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/196068240738-002-1400Wx1400H?context=bWFzdGVyfGltYWdlc3wzOTA1MzV8aW1hZ2UvanBlZ3xpbWFnZXMvaDFlL2gxNC8xMTQ5MDA4OTAwOTE4Mi5qcGd8YWVhN2U5YWY4ODc4NDkzOTlmNDI5YTJkZDAwZjRjMDg3MmFkODUyOTkwYmY5ZDlhNWUxMTJhNzk4YzVlMjI1MQ"
+            }
+          ]
+        }
+      ],
       "price": 1499000,
       "imageUrl": "https://www.alkomprar.com/medias/196068240738-001-310Wx310H?context=bWFzdGVyfGltYWdlc3w0NTI5MXxpbWFnZS9qcGVnfGltYWdlcy9oMjcvaDFlLzExNDkwMDg4NTUwNDMwLmpwZ3xlMGM1ZWE3ZTFiYjg5NGFiOTM4ZGM1MGJmZTk2YmEwMTc5MThlYWRlNGI3NmE0NDBmMjc1NTMwOGU3ZmRjOWZi",
       "quantity": 9
@@ -213,6 +906,39 @@
       "id": 22,
       "name": "HP 15.6' Pulgadas ef2500la",
       "description": "AMD Ryzen 7 - RAM 16GB - Disco SSD 512 GB - Dorado",
+      "details": [
+        {
+          "hdmi": "1",
+          "usb": "2",
+          "usb_c": "1",
+          "weight": "1.69kg",
+          "screen": "15.6 Pulgadas Full HD",
+          "battery": "9 Horas",
+          "connectivity": "Bluetooth, WiFi",
+          "ram": "16 GB",
+          "disk": "Disco Estado Solido (SSD) 512 GB",
+          "processor": "AMD R7 5700U 4,3 GHz, 8 MB de caché L3, 8 núcleos, 16 subprocesos",
+          "graphic": "No Tiene Tarjeta Video/Grafica Independiente",
+          "so": "Windows 11 Home",
+          "images": [
+            {
+              "image": "https://www.alkomprar.com/medias/196337755710-003-1400Wx1400H?context=bWFzdGVyfGltYWdlc3wzMTM3NTV8aW1hZ2UvanBlZ3xpbWFnZXMvaGRiL2g4NS8xMTc1MjAwNTM2OTg4Ni5qcGd8YmRhMTJmNmUxZDBkZThjZGE3MWUzZjEwMzA0YTdmNjc5ZGY2MTI3YTYxZDA5NjgwMGNmMTI2YjgyMWYwMDM5Yw"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/196337755710-004-1400Wx1400H?context=bWFzdGVyfGltYWdlc3wzMjc5MTR8aW1hZ2UvanBlZ3xpbWFnZXMvaGIyL2g3My8xMTc1MjAwNjAyNTI0Ni5qcGd8MDAzNDJkN2M1ZjdlOTQzN2I1NTE5MTE0MDkwNTAxOTliYWI1YzBjZTcwNDdhOWQxN2I3ZjEwYTdiZWRiZDU3MA"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/196337755710-005-1400Wx1400H?context=bWFzdGVyfGltYWdlc3w3OTY3MnxpbWFnZS9qcGVnfGltYWdlcy9oZjIvaGFiLzExNzUyMDA0NzgwMDYyLmpwZ3w0ZGQzMTJkNTk3ZjVlNTZjZDk2ZmRhZDUwNjc5NmJhZWI1ZjhlNTQzMWYxYWZmZDczNzI5M2VlZWViOTFmMTQz"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/196337755710-006-1400Wx1400H?context=bWFzdGVyfGltYWdlc3wyMjM2NjB8aW1hZ2UvanBlZ3xpbWFnZXMvaGNlL2hmMi8xMTc1MjAwNjYxNTA3MC5qcGd8MjYwNjZkMDZmMmJiODdiMWNmZGM1YWQxMjcxMWYyZWMxOTExYzA5MGU3MGM5MmNjMmNhNGUzNDI2NDNlNTE1NA"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/196337755710-007-1400Wx1400H?context=bWFzdGVyfGltYWdlc3w4MjYxNnxpbWFnZS9qcGVnfGltYWdlcy9oZjQvaDBkLzExNzUyMDA3MjA0ODk0LmpwZ3xhMWFmOTRlMDZlNDJmZjIzNTJjM2UyNjc4MWYzMzI1MGU5ODRlN2E1N2ZkOTVlZGRhYWUwNDNiOTc5ZDNlMzJl"
+            }
+          ]
+        }
+      ],
       "price": 2999000,
       "imageUrl": "https://www.alkomprar.com/medias/196337755710-001-310Wx310H?context=bWFzdGVyfGltYWdlc3w0MTE0NXxpbWFnZS9qcGVnfGltYWdlcy9oNTAvaDEyLzExNzUyMDA0MzIxMzEwLmpwZ3wyNzg1NmU3NjhkYWQzYzQ4MmIyYzc2NjlhMzFiMDViZjc1NzczNzZkZGE0ZTQ2NTY2ZDQ1ZjMwM2YzNmQ3ZDAz",
       "quantity": 9
@@ -221,6 +947,39 @@
       "id": 23,
       "name": "PREDATOR 14' Pulgadas 76QN",
       "description": "Intel Core i7 - RAM 16GB - Disco 512GB SSD - Plateado",
+      "details": [
+        {
+          "hdmi": "1",
+          "usb": "2",
+          "usb_c": "1",
+          "weight": "1.7kg",
+          "screen": "14 Pulgadas Full HD",
+          "battery": "9 Horas",
+          "connectivity": "Bluetooth, WiFi",
+          "ram": "16 GB",
+          "disk": "Disco Estado Solido (SSD) 512 GB",
+          "processor": "Intel Core i7 11375H 3.3GHZ 4 nucleos",
+          "graphic": "NVIDIA GEFORCE RTX 3050Ti 4GB - GDDR6",
+          "so": "Windows 10",
+          "images": [
+            {
+              "image": "https://www.alkomprar.com/medias/4710886585428-003-1400Wx1400H?context=bWFzdGVyfGltYWdlc3wzMjU1Mjl8aW1hZ2UvanBlZ3xpbWFnZXMvaDk4L2g5OC8xMjYzMDk3NzQ3ODY4Ni5qcGd8MDhhZWU1YzY4ZjhjMWE5Zjc0MDJlODA1NjcxNDM2MTRhNDBmOTVhZWI2NWY2ZWQwYzAzMTAzOWRiNDgyNjliMQ"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/4710886585428-005-1400Wx1400H?context=bWFzdGVyfGltYWdlc3wyNzczMjB8aW1hZ2UvanBlZ3xpbWFnZXMvaDk2L2hjMi8xMjYzMDk3ODY1ODMzNC5qcGd8MmU0ZDYzNmJlMTc1MTYxZDU1ZDMzZjZjNzM1OGVjMjcxODY2ZTFlYTdmNWI3NjhjMmMwZjNkMDU5ZDA1ZGQ5OQ"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/4710886585428-006-1400Wx1400H?context=bWFzdGVyfGltYWdlc3w2MDM0MHxpbWFnZS9qcGVnfGltYWdlcy9oYmMvaDNkLzEyNjMwOTc1NzA5MjE0LmpwZ3wyMTlhMmZmY2RiYzI4OTFmYzQ1ZWQxY2MzZGM3MTQ4YWRlMDE5M2ZhNDg0NDhmNDEzMjU0YzZiNmI4NDUzZGVm"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/4710886585428-007-1400Wx1400H?context=bWFzdGVyfGltYWdlc3w2MTc3MnxpbWFnZS9qcGVnfGltYWdlcy9oMzYvaDU1LzEyNjMwOTc5MjQ4MTU4LmpwZ3w4ZmUwODM1NzJmZGI0ZWFkOTVjNWU4ZTcwN2Y4ODdlMmRhMjQxZGQ4ODE3Yjc2NmRiOWRlZDlkZGQ0YzEwNzc1"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/4710886585428-008-1400Wx1400H?context=bWFzdGVyfGltYWdlc3wxMjUwMTB8aW1hZ2UvanBlZ3xpbWFnZXMvaGFiL2hkNy8xMjYzMDk3OTgzNzk4Mi5qcGd8YjU4NmI5NTdlZWEzMDBjNDc3YzEzZTA2ZTg2NWQ5NDA0MmFkZGQyOWQ0MTJkZjgxMWU2YTY1Y2JlYTdmMzQ1ZA"
+            }
+          ]
+        }
+      ],
       "price": 4799000,
       "imageUrl": "https://www.alkomprar.com/medias/4710886585428-001-310Wx310H?context=bWFzdGVyfGltYWdlc3w2OTMxM3xpbWFnZS9qcGVnfGltYWdlcy9oYzIvaDkzLzEyNjgxNjk3MDk5ODA2LmpwZ3w5NTUwYWI3ZDhmMzE2ZjM1MTVlMTg5N2FiNTdhY2E3ODQwYjQyNDc0ZWNmM2M1ZjJhN2Y1Y2NjYTdjYWU4Y2Rj",
       "quantity": 9
@@ -229,6 +988,39 @@
       "id": 24,
       "name": "HP Pavilion 14' Pulgadas dv2000la",
       "description": "Intel Core i5 - RAM 8GB- Disco SSD 512 GB - Dorado",
+      "details": [
+        {
+          "hdmi": "1",
+          "usb": "1",
+          "usb_c": "1",
+          "weight": "1.41kg",
+          "screen": "14 Pulgadas Full HD",
+          "battery": "7 Horas",
+          "connectivity": "Bluetooth, WiFi",
+          "ram": "8 GB",
+          "disk": "Disco Estado Solido (SSD) 512 GB",
+          "processor": "Intel Core i5-1235U 4,4 GHz con la tecnología Intel® Turbo Boost, 12 MB de caché L3, 10 núcleos, 12 subprocesos",
+          "graphic": "No Tiene Tarjeta Video/Grafica Independiente",
+          "so": "Windows 11",
+          "images": [
+            {
+              "image": "https://www.alkomprar.com/medias/196548561858-003-1400Wx1400H?context=bWFzdGVyfGltYWdlc3wyMzEyMTl8aW1hZ2UvanBlZ3xpbWFnZXMvaDgxL2g1My8xMjcyOTM5MjU5NDk3NC5qcGd8ZDE4ZWI5ODQ5NTMzYzgwZDBkODg3YzEwYmIxNjgwMWMwYzI3ZGVkYmVlN2MzYjMxZDU0M2FjNGIzYmFhOGI1OA"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/196548561858-004-1400Wx1400H?context=bWFzdGVyfGltYWdlc3w1NDI3MXxpbWFnZS9qcGVnfGltYWdlcy9oODgvaDkzLzEyNzI5MzkwNzU5OTY2LmpwZ3w3MzdmMThmZTgwYjlhMTQ3YWUwMDU4NDM3NDc5OGY2YjdhOWY2MDQ3MTI1YmU3Y2RmNmYwM2QwMDIxMTRkMDlh"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/196548561858-005-1400Wx1400H?context=bWFzdGVyfGltYWdlc3wxMDQxNzh8aW1hZ2UvanBlZ3xpbWFnZXMvaGUxL2hjMC8xMjcyOTM5MzE4NDc5OC5qcGd8YTFhNmU4NjE1MzU1YTZhZmYxOGNkNzI2NTY1ZGVlNDIzNTM5MDBjZDc5ZjliNmJiZjU4ZDM3MzRhYWNhYjcyYQ"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/196548561858-006-1400Wx1400H?context=bWFzdGVyfGltYWdlc3wyNjE0MDh8aW1hZ2UvanBlZ3xpbWFnZXMvaDRkL2g5YS8xMjcyOTM5NDM2NDQ0Ni5qcGd8YWE5ZThiZjM2ODE2M2IyYzNjNTcwNTM3ZmY1M2UyYzc0NTkxYzI1MDAwNGMxYTYxZjExZTRkYzAyMzFhNTE3Mw"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/196548561858-007-1400Wx1400H?context=bWFzdGVyfGltYWdlc3wzNTg1NTd8aW1hZ2UvanBlZ3xpbWFnZXMvaDMxL2gxYi8xMjcyOTM5NDk1NDI3MC5qcGd8OWY4MjM2M2E5M2M5MmE1YmY5MGJhYTQ4NDNkNWI4NjQ3ZTU0MjcxYWJmMzhiYzk5MzE3YzI3MTk4YTNmMTIxYQ"
+            }
+          ]
+        }
+      ],
       "price": 2999000,
       "imageUrl": "https://www.alkomprar.com/medias/196548561858-001-310Wx310H?context=bWFzdGVyfGltYWdlc3w0NzExOHxpbWFnZS9qcGVnfGltYWdlcy9oZGUvaDNhLzEyNzI5MzkxNDgwODYyLmpwZ3xjZjgwZTRhNmIzMGI0MGU3NThjMzRiN2M5N2NmNmYxYTkzZmZiNjg4N2ZkNTdiYWM2NjJmYTU1Zjc1OTNlNjI4",
       "quantity": 9
@@ -237,6 +1029,39 @@
       "id": 25,
       "name": "LENOVO 14' Pulgadas IdeaPad 5",
       "description": "AMD Ryzen 7 - RAM 16GB - Disco SSD 512GB - Gris",
+      "details": [
+        {
+          "hdmi": "1",
+          "usb": "2",
+          "usb_c": "1",
+          "weight": "1.39kg",
+          "screen": "14 Pulgadas Full HD",
+          "battery": "8 Horas",
+          "connectivity": "Bluetooth, WiFi",
+          "ram": "16 GB",
+          "disk": "Disco Estado Solido (SSD) 512 GB",
+          "processor": "AMD Ryzen 7 5700U 16T, 1,8/4,3 GHz, 4 MB L2/8 MB L3",
+          "graphic": "No Tiene Tarjeta Video/Grafica Independiente",
+          "so": "Windows 11 HOME PLUS",
+          "images": [
+            {
+              "image": "https://www.alkomprar.com/medias/196379131329-003-1400Wx1400H?context=bWFzdGVyfGltYWdlc3w1MjkxNTR8aW1hZ2UvanBlZ3xpbWFnZXMvaDhhL2hmOC8xMjYzMDk5NDY0OTExOC5qcGd8M2YyYzYxYmNkMWQzNjEzYWZhN2Q1NTMzMjRhMmI3NzgxMTRlMTIxM2JhZTQ4NWY0ZDNmMDkwNDkzOGJjNmExYw"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/196379131329-005-1400Wx1400H?context=bWFzdGVyfGltYWdlc3wyOTQyMDh8aW1hZ2UvanBlZ3xpbWFnZXMvaGNjL2g5Mi8xMjYzMDk5NTgyODc2Ni5qcGd8ODQzNDEwY2ViMzdmMTY5NTMxYTczOGY5YzViZGIzYmUwM2FkZWVjMWUyNmI5MWUxZDIzNTc1MWIyYTYwODZlOA"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/196379131329-007-1400Wx1400H?context=bWFzdGVyfGltYWdlc3wxNTI5ODV8aW1hZ2UvanBlZ3xpbWFnZXMvaDEyL2g5Yi8xMjYzMDk5MjI4OTgyMi5qcGd8MzdkYzA3MzNmYzk0MjM5MmI4YTVlMDA5NWJhZWUyMjk5ZWFiZDliNzY4YzFlNGZhODUwZGQyZTE5NGVjZWFjNw"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/196379131329-008-1400Wx1400H?context=bWFzdGVyfGltYWdlc3w3NTA1MDd8aW1hZ2UvanBlZ3xpbWFnZXMvaGM4L2gwNy8xMjYzMDk5NzU5ODIzOC5qcGd8MTkzNmI4NTI2NWYyMmM0OTJlY2FkOWExODQxYWQyODNkMjVlYzViOWJmMzVlNzI3ZTQ0NjlmMjkxYmI3OTVkNA"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/196379131329-009-1400Wx1400H?context=bWFzdGVyfGltYWdlc3w3NDY2NXxpbWFnZS9qcGVnfGltYWdlcy9oNmYvaGRjLzEyNjMwOTk3MDA4NDE0LmpwZ3xlYWQyMTQwNmYzZDk0ZDEyY2QzNDFiYTM2NTk4NGVkNmJmYWNlNDNlNzViYmRkN2Y3ZWEzOWYwNTQwYzU2Nzc2"
+            }
+          ]
+        }
+      ],
       "price": 2899000,
       "imageUrl": "https://www.alkomprar.com/medias/196379131329-001-310Wx310H?context=bWFzdGVyfGltYWdlc3w1NjA4NXxpbWFnZS9qcGVnfGltYWdlcy9oODYvaDYxLzEyNjMwOTkzNjAwNTQyLmpwZ3xiZWUzODY1ZDc1MWFlYzZiYTMzNTA2Mjc4YzhmYzg5MDJlMTEyOGZhMjNmMWU0MTUzYzdlMGI3YWNiMGQ0MjUw",
       "quantity": 9
@@ -245,6 +1070,39 @@
       "id": 26,
       "name": "ASUS 14' Pulgadas X415JA",
       "description": "Intel Core i3 - RAM 8GB - Disco SSD 512 GB - Azul",
+      "details": [
+        {
+          "hdmi": "1",
+          "usb": "3",
+          "usb_c": "1",
+          "weight": "1.6kg",
+          "screen": "14 Pulgadas Full HD",
+          "battery": "8 Horas",
+          "connectivity": "Bluetooth, WiFi",
+          "ram": "8 GB",
+          "disk": "Disco Estado Solido (SSD) 512 GB",
+          "processor": "Intel Core i3 1005G1 Processor 1.2 GHz (4M Cache, up to 3.4 GHz, 2 cores)",
+          "graphic": "No Tiene Tarjeta Video/Grafica Independiente",
+          "so": "Windows 11 HOME",
+          "images": [
+            {
+              "image": "https://www.alkomprar.com/medias/4711081774310-003-1400Wx1400H?context=bWFzdGVyfGltYWdlc3wzMDQzMjF8aW1hZ2UvanBlZ3xpbWFnZXMvaDQyL2gwNy8xMjQ2MTczMDkyMjUyNi5qcGd8MzJiNTA4OTFjZTA0MzFhZjZjZjBiYjg4YWJjNmYzMGNmMWNhZWE0ODhhYmI5NTdhNDg2Y2Y2Mjk4OTMzZmE4Nw"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/4711081774310-004-1400Wx1400H?context=bWFzdGVyfGltYWdlc3wyNTkwODR8aW1hZ2UvanBlZ3xpbWFnZXMvaGNkL2g2My8xMjQ2MTczMTUxMjM1MC5qcGd8OGQ3MWQxY2ViNjZhYzM1NDM3OWI0MTg4NTg5Nzg1MjBjN2ExMWU2Yjc1ODk3ZWM3MTJiNGU1MmIyMmIxNmIwZA"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/4711081774310-005-1400Wx1400H?context=bWFzdGVyfGltYWdlc3w3ODc4OXxpbWFnZS9qcGVnfGltYWdlcy9oZGEvaDViLzEyNDYxNzI4NDY0OTI2LmpwZ3xhZGYzYTk5Yjg2MTM1ZDUxMWE2MmRmYjM2M2ZjNjhkNmUzYTMxNmNjNThhZjkzMTBhOGRhODE1ZGQ3MzlhNjBl"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/4711081774310-006-1400Wx1400H?context=bWFzdGVyfGltYWdlc3w3NTM1OXxpbWFnZS9qcGVnfGltYWdlcy9oMmQvaGQxLzEyNDYxNzMyMTAyMTc0LmpwZ3w2ZmI1Y2M3ZGY4YmJkYTA4MGQzMjkyMTFiOTRjNDQyOWNhYjRkYWZhZTYxOGNjYjYwY2IzNTA0ZDVmYjQ5YWJh"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/4711081774310-002-1400Wx1400H?context=bWFzdGVyfGltYWdlc3wzMzAwMzd8aW1hZ2UvanBlZ3xpbWFnZXMvaGFlL2g4OC8xMjQ2MTczMDMzMjcwMi5qcGd8ZmIyYzA0YzljNTU3ZjMyYTY1ZmViODVkZjQyYjBkOGQwZjhiZjA3YWQ0OTQxMzFlZmIxZjU0YTE0MzM2NmVkNg"
+            }
+          ]
+        }
+      ],
       "price": 1499000,
       "imageUrl": "https://www.alkomprar.com/medias/4711081641148-001-310Wx310H?context=bWFzdGVyfGltYWdlc3wyMzQwOHxpbWFnZS9qcGVnfGltYWdlcy9oMDEvaGQ3LzExNjE0OTY2NTQ2NDYyLmpwZ3wwZDg0NGUyYWNjNTg0M2MzMjQ0OGExMTlmODA1Mzk2MWVjY2ZlNjg1ZWQ3NDRkMzdjOTUyY2Q4YmRkMzMwNGNi",
       "quantity": 9
@@ -253,6 +1111,39 @@
       "id": 27,
       "name": "MacBook Air de 13' Pulgadas MGN93LA/A",
       "description": "Chip M1 RAM 8GB Disco Estado Solido 256 GB SSD - Plata",
+      "details": [
+        {
+          "hdmi": "1",
+          "usb": "3",
+          "usb_c": "2",
+          "weight": "1.29kg",
+          "screen": "13.3 Pulgadas Retina",
+          "battery": "18 Horas",
+          "connectivity": "Bluetooth, WiFi",
+          "ram": "8 GB",
+          "disk": "Disco Estado Solido (SSD) 256 GB",
+          "processor": "APPLE M1",
+          "graphic": "No Tiene Tarjeta Video/Grafica Independiente",
+          "so": "MacOs Big Sur",
+          "images": [
+            {
+              "image": "https://www.alkomprar.com/medias/194252425862-002-1400Wx1400H?context=bWFzdGVyfGltYWdlc3wxMzYwNTh8aW1hZ2UvanBlZ3xpbWFnZXMvaDYwL2hkZC8xMDYyNTQxMDc2MDczNC5qcGd8OTU0OTQwNzA4Yjg0MzA2MTVkNmQ2MmFiYzBiYzgzNGQ1YmQwOGFmNGM2ZTIyODA4MzBkOTk5M2FmYjIzNzNhNQ"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/194252425862-003-1400Wx1400H?context=bWFzdGVyfGltYWdlc3wxOTAyNDZ8aW1hZ2UvanBlZ3xpbWFnZXMvaDAwL2g3MC8xMDYyNTQxMTM1MDU1OC5qcGd8MjA1YmQ2ZWM2ZTAxOTA1ZWNiNGEwMTg1ZWQ1OTRjOTgxYmMxYmU0OTI1MzMxNWJlMzAyNDAwMmJjYmE0MDMwZQ"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/194252425862-004-1400Wx1400H?context=bWFzdGVyfGltYWdlc3wxMzcyNDh8aW1hZ2UvanBlZ3xpbWFnZXMvaDk5L2g1NC8xMDQ0MTA3NjUzOTQyMi5qcGd8MzE1Zjk5Zjg2MTQ0Nzk3MmExOTBlYzY0OTQxNmNmMWZmYjAyNjY5ZTJhZWU3MTNkMjU1MGE5MzBjZGQ4Y2NjNQ"
+            },
+            {
+              "image": "https://http2.mlstatic.com/D_NQ_NP_2X_961511-MLA46516517289_062021-F.webp"
+            },
+            {
+              "image": "https://http2.mlstatic.com/D_NQ_NP_2X_633097-MLA46516512353_062021-F.webp"
+            }
+          ]
+        }
+      ],
       "price": 5239000,
       "imageUrl": "https://www.alkomprar.com/medias/194252425862-001-310Wx310H?context=bWFzdGVyfGltYWdlc3wyNzg3N3xpbWFnZS9qcGVnfGltYWdlcy9oNzIvaDA0LzEwNDQxMDc0OTAxMDIyLmpwZ3xjMmU3YzBlNTVlZjhhNmNmZTM4NTI5YWUwMzBlOTBhNjViNjUwNGFiMWVhNzNlNjYyZGRiZGI3NTFmMGIyOGFl",
       "quantity": 9
@@ -261,6 +1152,39 @@
       "id": 28,
       "name": "HP 14' Pulgadas cf2514la",
       "description": "Intel Core i3 - RAM 4GB - Disco SSD 256 GB - Gris Pizarra",
+      "details": [
+        {
+          "hdmi": "1",
+          "usb": "2",
+          "usb_c": "1",
+          "weight": "1.47kg",
+          "screen": "14 Pulgadas HD",
+          "battery": "9 Horas",
+          "connectivity": "Bluetooth, WiFi",
+          "ram": "4 GB",
+          "disk": "Disco Estado Solido (SSD) 256 GB",
+          "processor": "Intel i3-10110U 2.4ghz 2 nucleos1",
+          "graphic": "No Tiene Tarjeta Video/Grafica Independiente",
+          "so": "Windows 10 Home 64",
+          "images": [
+            {
+              "image": "https://www.alkomprar.com/medias/196068240653-003-1400Wx1400H?context=bWFzdGVyfGltYWdlc3wyNDgwMDl8aW1hZ2UvanBlZ3xpbWFnZXMvaGIzL2hkZC8xMTQ5MDA4NDI5MDU5MC5qcGd8MTkzMzA3NGY1ZTk4YjI1ZGM5Nzg5NjJiY2U4MmE5YWI0NzI4NGU3ODQzMjNhN2JiNjU4NzM2Y2QyZmJkYWYxMA"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/196068240653-004-1400Wx1400H?context=bWFzdGVyfGltYWdlc3wxOTk0NjN8aW1hZ2UvanBlZ3xpbWFnZXMvaDlmL2gyMi8xMTQ5MDA4MTM0MTQ3MC5qcGd8ODhiZjkzNGNmNjA1MjI0NTUwNmViNWZhZjI3M2E3ODQxOTAyYzVjZmJkODdjYWRkNDYzOWY3OWQzNGQ4YTAyYg"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/196068240653-005-1400Wx1400H?context=bWFzdGVyfGltYWdlc3w2Mjg1NXxpbWFnZS9qcGVnfGltYWdlcy9oZjIvaGEzLzExNDkwMDg0ODgwNDE0LmpwZ3wzNWU2MmY4ZmU5ZjM3ZDM0ZGU5ZmEzOGE1YjdiZDc1MjZmY2U3YTdkYjUzMzJiMzE5MGVhMDk2ODFjNzBmYmFj"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/196068240653-006-1400Wx1400H?context=bWFzdGVyfGltYWdlc3wxODMwMjF8aW1hZ2UvanBlZ3xpbWFnZXMvaDkyL2gzNi8xMTQ5MDA4NTQ3MDIzOC5qcGd8MDU5MzAzZjQxOThjMDA1ZWM4ZDMzOTkxOTM3MTc1OGNmMzc5NjAxZmUzMGM4NmMwYWNmMDhiNjQxNjg4ZTZiMw"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/196068240653-007-1400Wx1400H?context=bWFzdGVyfGltYWdlc3w0NzIzMXxpbWFnZS9qcGVnfGltYWdlcy9oN2QvaDM0LzExNDkwMDg2MDYwMDYyLmpwZ3xiZDZiODM2NTJmNDg1NDM2NGIyMWVlMWI2NTdjZDZhYTU2NmQwOWIzNGFiMGQ1ZDNjZWM5YTIzMjAyNmZhYTFh"
+            }
+          ]
+        }
+      ],
       "price": 1199000,
       "imageUrl": "https://www.alkomprar.com/medias/196068240653-001-310Wx310H?context=bWFzdGVyfGltYWdlc3w0NjQxOXxpbWFnZS9qcGVnfGltYWdlcy9oMTgvaGEzLzExNDkwMDgzMjQyMDE0LmpwZ3xiMzEyNTcyYTc3MGE5YmVjYjdkNTlkNDJjMWQ2Mzc0MmMzOTBkMDYxNzAzMDdkZTRmMDM5ZjFlZTUxYWFhNDlm",
       "quantity": 9
@@ -269,6 +1193,39 @@
       "id": 29,
       "name": "LENOVO 14' Pulgadas IdeaPad 5",
       "description": "Intel Core i5 - RAM 8GB - Disco SSD 512GB - Azul",
+      "details": [
+        {
+          "hdmi": "1",
+          "usb": "2",
+          "usb_c": "2",
+          "weight": "1.39kg",
+          "screen": "14 Pulgadas Full HD",
+          "battery": "9 Horas",
+          "connectivity": "Bluetooth, WiFi",
+          "ram": "8 GB",
+          "disk": "Disco Estado Solido (SSD) 512 GB",
+          "processor": "Intel core i5 1135G7 8T, 2,4/4,2 GHz, 8 MB",
+          "graphic": "No Tiene Tarjeta Video/Grafica Independiente",
+          "so": "Windows 11 HOME",
+          "images": [
+            {
+              "image": "https://www.alkomprar.com/medias/196380731730-003-1400Wx1400H?context=bWFzdGVyfGltYWdlc3wyMzM3NDl8aW1hZ2UvanBlZ3xpbWFnZXMvaGJkL2hiNS8xMjYzMTAwOTk4NDU0Mi5qcGd8YmZiZTcyNDZkZGQwMTM5N2MzYWE1Y2ZhYzZlZTJhMmJiODMzMzcxN2U4OWZhZDllMDZiZTdlZDIxN2NjMTYxMA"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/196380731730-006-1400Wx1400H?context=bWFzdGVyfGltYWdlc3wyODI5ODl8aW1hZ2UvanBlZ3xpbWFnZXMvaDkwL2g3YS8xMjYzMTAxNDExMzMxMC5qcGd8MzA0NGJmZDdkOTYyOTg4Y2FmNjYyY2NlODFhMDk1ZmQyZDZjZThjZmNhYjQ3YTNhZWE1NGU1NThhOWJiMDJiYg"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/196380731730-007-1400Wx1400H?context=bWFzdGVyfGltYWdlc3wyODU2NjV8aW1hZ2UvanBlZ3xpbWFnZXMvaGRiL2gwNi8xMjYzMTAxNDcwMzEzNC5qcGd8MWNiMzAyNGVlMWE3ODIzNzFhOTJiMjYzNjk5MmQ3YWQyZTExYjZmZjI0ZGRiN2I0NmMzOGRjNjM1OTFjZTQzZA"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/196380731730-008-1400Wx1400H?context=bWFzdGVyfGltYWdlc3w1MTA4Nzl8aW1hZ2UvanBlZ3xpbWFnZXMvaGM0L2g4YS8xMjYzMTAxNTI5Mjk1OC5qcGd8MmNhYjkwYTlhZDQzODQ4ODBlZjU5YTQyMTdjMWI3OTFhZDE2NDI2OWM4MTE4MTAzODkzYTdhOWE3YTU3NzdhZg"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/196380731730-009-1400Wx1400H?context=bWFzdGVyfGltYWdlc3w5OTA4NXxpbWFnZS9qcGVnfGltYWdlcy9oZjUvaDlkLzEyNjMxMDEzNTIzNDg2LmpwZ3xjOTNmODA4YzIyZTc5MDVhMWM2Y2FiZmIwZWU3OWE0NTE5YWRlMWRhNmMzZjU2MzM2YmViM2Y1Y2EyODM3YTNm"
+            }
+          ]
+        }
+      ],
       "price": 2399000,
       "imageUrl": "https://www.alkomprar.com/medias/196380731730-001-310Wx310H?context=bWFzdGVyfGltYWdlc3w1NTc1NXxpbWFnZS9qcGVnfGltYWdlcy9oZjAvaDhlLzEyNjMxMDExMjk1MjYyLmpwZ3w0OGRkZjAxYTExYzBjNDQyMzZlNTVlN2ZmNzU1OTY5Y2I4ZWE0MTVhNTc1YzZhNTFkZjVjNTk2MjA3ZWJmZDcx",
       "quantity": 9

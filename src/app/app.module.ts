@@ -16,6 +16,12 @@ import {HttpClientModule} from "@angular/common/http";
 import {NgxPaginationModule} from "ngx-pagination";
 import {ToastrModule} from "ngx-toastr";
 import {MatGridListModule} from "@angular/material/grid-list";
+import {DetailProductComponent} from './components/detail-product/detail-product.component';
+import {MatDialogModule} from "@angular/material/dialog";
+import {MatCarouselModule} from "ng-mat-carousel";
+import {CdkAccordionModule} from "@angular/cdk/accordion";
+import {MatExpansionModule} from "@angular/material/expansion";
+import {MatTableModule} from "@angular/material/table";
 
 @NgModule({
   declarations: [
@@ -24,6 +30,7 @@ import {MatGridListModule} from "@angular/material/grid-list";
     ProductsComponent,
     AboutComponent,
     CartComponent,
+    DetailProductComponent,
   ],
   imports: [
     BrowserModule,
@@ -37,10 +44,15 @@ import {MatGridListModule} from "@angular/material/grid-list";
     NgxPaginationModule,
     ToastrModule.forRoot({
       timeOut: 1500,
-      positionClass: 'toast-top-right',
+      positionClass: 'toast-bottom-right',
       preventDuplicates: false,
     }),
-    MatGridListModule
+    MatGridListModule,
+    MatDialogModule,
+    MatCarouselModule.forRoot(),
+    CdkAccordionModule,
+    MatExpansionModule,
+    MatTableModule,
   ],
   providers: [],
   bootstrap: [AppComponent]

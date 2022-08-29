@@ -18,7 +18,7 @@ export class CartService {
     return this.product$.asObservable();
   }
 
-  setProduct(product: any): void {
-    this.product$.next(product);
+  setProduct(products: any): void {
+    this.product$.next(products);
   }
 }

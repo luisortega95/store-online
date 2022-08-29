@@ -14,8 +14,8 @@
         <mat-card-actions class="mat-action-list">
           <mat-card-title>${{product.price | currency:'COP ':'symbol':'3.0'}}  / {{product.quantity}} unidades
           </mat-card-title>
-          <button mat-raised-button color="accent" [routerLink]="['/product', product.id]" >Ver detalles</button>
-          <button mat-raised-button color="primary" (click)="addCart(product)">Añadir a carrito</button>
+          <button mat-raised-button color="accent" mat-button (click)="detail(product)">Ver detalles</button>
+          <button mat-raised-button color="primary" (click)="addCart(product)">Añadir al carrito</button>
         </mat-card-actions>
       </mat-card>
     </mat-grid-tile>

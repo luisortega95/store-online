@@ -4,7 +4,42 @@
   <mat-card-title class="mat-dialog-title">Carrito de compras</mat-card-title>
   <hr>
   <section>
+    <table mat-table [dataSource]="cart" class="mat-elevation-z8">
+      <ng-container matColumnDef="imageUrl">
+        <th mat-header-cell *matHeaderCellDef> Producto</th>
+        <td mat-cell *matCellDef="let product"><img src="{{product.imageUrl}}" class="e-product-img"/></td>
+      </ng-container>
 
+      <ng-container matColumnDef="name">
+        <th mat-header-cell *matHeaderCellDef> Nombre</th>
+        <td mat-cell *matCellDef="let product"> {{product.name}} </td>
+      </ng-container>
+
+      <ng-container matColumnDef="price">
+        <th mat-header-cell *matHeaderCellDef> Precio</th>
+        <td mat-cell *matCellDef="let product"> ${{product.price | currency:'COP ':'symbol':'3.0'}}  </td>
+      </ng-container>
+
+      <ng-container matColumnDef="quantity">
+        <th mat-header-cell *matHeaderCellDef> Cantidad</th>
+        <td mat-cell *matCellDef="let product"> {{product.counter}} </td>
+      </ng-container>
+
+      <ng-container matColumnDef="delete">
+        <th mat-header-cell *matHeaderCellDef> Accion</th>
+        <td *matCellDef="let product">
+          <button (click)="removeProduct(product)">
+            <mat-icon style="color: crimson;cursor: pointer">delete</mat-icon>
+          </button>
+        </td>
+      </ng-container>
+
+      <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+      <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
+    </table>
+    <div class="total">
+      <h3>Total a pagar: ${{total| currency:'COP ':'symbol':'3.0'}}</h3>
+    </div>
   </section>
 </div>
 </body>

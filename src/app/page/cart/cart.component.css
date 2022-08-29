@@ -3,7 +3,32 @@ div.app-cart-div {
   text-align: center;
 }
 
+.mat-dialog-title {
+  color: white;
+}
+
 body {
   background-image: url("https://i.picsum.photos/id/48/5184/3456.jpg?hmac=CqGbzLpjn6uemZM1G8hAgGDefnyntx41HEPKtlK4CDA");
   background-size: cover;
+}
+
+img.e-product-img {
+  height: 100px;
+  width: 100px;
+}
+
+table {
+  width: 100%;
+}
+
+.mat-header-cell {
+  color: black;
+  font-size: large;
+  text-align: center;
+}
+
+h3 {
+  font-weight: bold;
+  text-align: end;
+  font-size: large;
 }

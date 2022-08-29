@@ -4,6 +4,39 @@
       "id": 0,
       "name": "ASUS 14' Pulgadas E410MA",
       "description": "Intel Celeron - RAM 4GB - Disco SSD 256 GB - Azul",
+      "details": [
+        {
+          "hdmi": "1",
+          "usb": "2",
+          "usb_c": "1",
+          "weight": "1.3kg",
+          "screen": "14 Pulgadas HD",
+          "battery": "8 Horas",
+          "connectivity": "Bluetooth, USB, WiFi",
+          "ram": "4 GB",
+          "disk": "Disco Estado Solido (SSD) 256  GB",
+          "processor": "Intel Celeron N4020 Processor 1.1 GHz, 2 Nucleos (4M Cache, up to 2.8 GHz, 2 cores) ",
+          "graphic": "No Tiene Tarjeta Video/Grafica Independiente",
+          "so": "Windows 11 Home",
+          "images": [
+            {
+              "image": "https://www.alkomprar.com/medias/4711081640219-003-1400Wx1400H?context=bWFzdGVyfGltYWdlc3wxMzc2ODN8aW1hZ2UvanBlZ3xpbWFnZXMvaDdhL2g4OS8xMjQwNTg5OTQ2MDYzOC5qcGd8N2U5NWQ5ZjM0NjhkMzcyYjI1ZWZkYmEwMjE3OTQ1NmFkMDVhZjY1M2Q5YjQ4YjRkOGE3OWQwOWJjYTE5ODRiYw"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/4711081640219-004-1400Wx1400H?context=bWFzdGVyfGltYWdlc3wyMTI4NTB8aW1hZ2UvanBlZ3xpbWFnZXMvaGY3L2g0Yy8xMjQwNTkxMDIwODU0Mi5qcGd8MjI5ZjIxMWRkZjY1ZWUyNDI4MjdkOGIyZGRmZGYyZDZkYTJkZDNlMjVhNTA5ODRjOWQ4MThmMTM3M2ZjNTgyZg"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/4711081640219-005-1400Wx1400H?context=bWFzdGVyfGltYWdlc3wzMTgzNzR8aW1hZ2UvanBlZ3xpbWFnZXMvaDUxL2g3My8xMjQwNTkxMTM4ODE5MC5qcGd8MDQyYmRlZDg2YzRlZTk5Yjg1NWFhOGI0MDNjMTAwZjQ5YzExODczMmQ3NGU3YTQzZTE0YWMzM2I0ZDI1MDNhOQ"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/4711081640219-006-1400Wx1400H?context=bWFzdGVyfGltYWdlc3w2MTcwN3xpbWFnZS9qcGVnfGltYWdlcy9oNjEvaGRlLzEyNDA1OTEwNzk4MzY2LmpwZ3w1YTQ3NzhlMTdjZTI3NjNhYjc2ZmYxMWM3MjI5MWI5MDAwZjQyYjc4OGM1ODc5NjMxOTRlZmE4ZjI5ZmRhYjky"
+            },
+            {
+              "image": "https://www.alkomprar.com/medias/4711081640219-007-1400Wx1400H?context=bWFzdGVyfGltYWdlc3w2Nzc2M3xpbWFnZS9qcGVnfGltYWdlcy9oOTAvaDM5LzEyNDA1OTExOTc4MDE0LmpwZ3xkYzhiNzEzMjA2ZTQ3NWJiYTNlOGJiZTBlZjA0MWMyNGJjNjFiYmQyYmU2OTRlNWNkMTBkOGI0ZDRiNzM3MjA4"
+            }
+          ]
+        }
+      ],
       "price": 899000,
       "imageUrl": "https://www.alkomprar.com/medias/4711081640219-001-310Wx310H?context=bWFzdGVyfGltYWdlc3w1MTE1OXxpbWFnZS9qcGVnfGltYWdlcy9oMGIvaDdjLzEyNDA1OTA5MTU5OTY2LmpwZ3wzNTU5ODdlYjI2YTE2NjcwNWRjYTgzM2M3ZGM0YTY0ZTFjMWNjM2U3YTA3MGYxM2I1YTQ0MWJlOWRjMDlmMmEw",
       "quantity": 9
